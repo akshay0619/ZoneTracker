@@ -1,0 +1,502 @@
+symbol,company,industry,isin,segment,yahoo
+360ONE,360 ONE WAM Ltd.,Financial Services,INE466L01038,Midcap 150,360ONE.NS
+AADHARHFC,Aadhar Housing Finance Ltd.,Financial Services,INE883F01010,Smallcap 250,AADHARHFC.NS
+AARTIIND,Aarti Industries Ltd.,Chemicals,INE769A01020,Smallcap 250,AARTIIND.NS
+AAVAS,Aavas Financiers Ltd.,Financial Services,INE216P01012,Smallcap 250,AAVAS.NS
+ABB,ABB India Ltd.,Capital Goods,INE117A01022,Nifty 100,ABB.NS
+ABBOTINDIA,Abbott India Ltd.,Healthcare,INE358A01014,Midcap 150,ABBOTINDIA.NS
+ABCAPITAL,Aditya Birla Capital Ltd.,Financial Services,INE674K01013,Midcap 150,ABCAPITAL.NS
+ABDL,Allied Blenders and Distillers Ltd.,Fast Moving Consumer Goods,INE552Z01027,Smallcap 250,ABDL.NS
+ABREL,Aditya Birla Real Estate Ltd.,Realty,INE055A01016,Smallcap 250,ABREL.NS
+ABSLAMC,Aditya Birla Sun Life AMC Ltd.,Financial Services,INE404A01024,Smallcap 250,ABSLAMC.NS
+ACC,ACC Ltd.,Construction Materials,INE012A01025,Smallcap 250,ACC.NS
+ACE,Action Construction Equipment Ltd.,Capital Goods,INE731H01025,Smallcap 250,ACE.NS
+ACMESOLAR,ACME Solar Holdings Ltd.,Power,INE622W01025,Smallcap 250,ACMESOLAR.NS
+ACUTAAS,Acutaas Chemicals Ltd.,Healthcare,INE00FF01025,Smallcap 250,ACUTAAS.NS
+ADANIENSOL,Adani Energy Solutions Ltd.,Power,INE931S01010,Nifty 100,ADANIENSOL.NS
+ADANIENT,Adani Enterprises Ltd.,Metals & Mining,INE423A01024,Nifty 100,ADANIENT.NS
+ADANIGREEN,Adani Green Energy Ltd.,Power,INE364U01010,Nifty 100,ADANIGREEN.NS
+ADANIPORTS,Adani Ports and Special Economic Zone Ltd.,Services,INE742F01042,Nifty 100,ADANIPORTS.NS
+ADANIPOWER,Adani Power Ltd.,Power,INE814H01029,Nifty 100,ADANIPOWER.NS
+AEGISLOG,Aegis Logistics Ltd.,Oil Gas & Consumable Fuels,INE208C01025,Smallcap 250,AEGISLOG.NS
+AEGISVOPAK,Aegis Vopak Terminals Ltd.,Oil Gas & Consumable Fuels,INE0INX01018,Smallcap 250,AEGISVOPAK.NS
+AETHER,Aether Industries Ltd.,Chemicals,INE0BWX01014,Smallcap 250,AETHER.NS
+AFCONS,Afcons Infrastructure Ltd.,Construction,INE101I01011,Smallcap 250,AFCONS.NS
+AFFLE,Affle 3i Ltd.,Information Technology,INE00WC01027,Smallcap 250,AFFLE.NS
+AIAENG,AIA Engineering Ltd.,Capital Goods,INE212H01026,Midcap 150,AIAENG.NS
+AIIL,Authum Investment & Infrastructure Ltd.,Financial Services,INE206F01022,Midcap 150,AIIL.NS
+AJANTPHARM,Ajanta Pharmaceuticals Ltd.,Healthcare,INE031B01049,Midcap 150,AJANTPHARM.NS
+ALKEM,Alkem Laboratories Ltd.,Healthcare,INE540L01014,Midcap 150,ALKEM.NS
+AMBER,Amber Enterprises India Ltd.,Consumer Durables,INE371P01015,Smallcap 250,AMBER.NS
+AMBUJACEM,Ambuja Cements Ltd.,Construction Materials,INE079A01024,Nifty 100,AMBUJACEM.NS
+ANANDRATHI,Anand Rathi Wealth Ltd.,Financial Services,INE463V01026,Smallcap 250,ANANDRATHI.NS
+ANANTRAJ,Anant Raj Ltd.,Realty,INE242C01024,Smallcap 250,ANANTRAJ.NS
+ANGELONE,Angel One Ltd.,Financial Services,INE732I01021,Smallcap 250,ANGELONE.NS
+ANTHEM,Anthem Biosciences Ltd.,Healthcare,INE0CZ201020,Midcap 150,ANTHEM.NS
+ANURAS,Anupam Rasayan India Ltd.,Chemicals,INE930P01018,Smallcap 250,ANURAS.NS
+APARINDS,Apar Industries Ltd.,Capital Goods,INE372A01015,Midcap 150,APARINDS.NS
+APLAPOLLO,APL Apollo Tubes Ltd.,Capital Goods,INE702C01027,Midcap 150,APLAPOLLO.NS
+APOLLOHOSP,Apollo Hospitals Enterprise Ltd.,Healthcare,INE437A01024,Nifty 100,APOLLOHOSP.NS
+APOLLOTYRE,Apollo Tyres Ltd.,Automobile and Auto Components,INE438A01022,Smallcap 250,APOLLOTYRE.NS
+APTUS,Aptus Value Housing Finance India Ltd.,Financial Services,INE852O01025,Smallcap 250,APTUS.NS
+ARE&M,Amara Raja Energy & Mobility Ltd.,Automobile and Auto Components,INE885A01032,Smallcap 250,ARE&M.NS
+ASAHIINDIA,Asahi India Glass Ltd.,Automobile and Auto Components,INE439A01020,Smallcap 250,ASAHIINDIA.NS
+ASHOKLEY,Ashok Leyland Ltd.,Capital Goods,INE208A01029,Midcap 150,ASHOKLEY.NS
+ASIANPAINT,Asian Paints Ltd.,Consumer Durables,INE021A01026,Nifty 100,ASIANPAINT.NS
+ASTERDM,Aster DM Quality Care Ltd.,Healthcare,INE914M01019,Midcap 150,ASTERDM.NS
+ASTRAL,Astral Ltd.,Capital Goods,INE006I01046,Midcap 150,ASTRAL.NS
+ATGL,Adani Total Gas Ltd.,Oil Gas & Consumable Fuels,INE399L01023,Midcap 150,ATGL.NS
+ATHERENERG,Ather Energy Ltd.,Automobile and Auto Components,INE0LEZ01016,Smallcap 250,ATHERENERG.NS
+ATUL,Atul Ltd.,Chemicals,INE100A01010,Smallcap 250,ATUL.NS
+AUBANK,AU Small Finance Bank Ltd.,Financial Services,INE949L01017,Midcap 150,AUBANK.NS
+AUROPHARMA,Aurobindo Pharma Ltd.,Healthcare,INE406A01037,Midcap 150,AUROPHARMA.NS
+AVANTIFEED,Avanti Feeds Ltd.,Fast Moving Consumer Goods,INE871C01038,Smallcap 250,AVANTIFEED.NS
+AWL,AWL Agri Business Ltd.,Fast Moving Consumer Goods,INE699H01024,Smallcap 250,AWL.NS
+AXISBANK,Axis Bank Ltd.,Financial Services,INE238A01034,Nifty 100,AXISBANK.NS
+AZAD,Azad Engineering Ltd.,Capital Goods,INE02IJ01035,Smallcap 250,AZAD.NS
+BAGMANE,Bagmane Prime Office REIT,Realty,INE2OVN25015,Smallcap 250,BAGMANE.NS
+BAJAJ-AUTO,Bajaj Auto Ltd.,Automobile and Auto Components,INE917I01010,Nifty 100,BAJAJ-AUTO.NS
+BAJAJFINSV,Bajaj Finserv Ltd.,Financial Services,INE918I01026,Nifty 100,BAJAJFINSV.NS
+BAJAJHFL,Bajaj Housing Finance Ltd.,Financial Services,INE377Y01014,Midcap 150,BAJAJHFL.NS
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd.,Financial Services,INE118A01012,Nifty 100,BAJAJHLDNG.NS
+BAJFINANCE,Bajaj Finance Ltd.,Financial Services,INE296A01032,Nifty 100,BAJFINANCE.NS
+BALKRISIND,Balkrishna Industries Ltd.,Automobile and Auto Components,INE787D01026,Midcap 150,BALKRISIND.NS
+BALRAMCHIN,Balrampur Chini Mills Ltd.,Fast Moving Consumer Goods,INE119A01028,Smallcap 250,BALRAMCHIN.NS
+BANDHANBNK,Bandhan Bank Ltd.,Financial Services,INE545U01014,Smallcap 250,BANDHANBNK.NS
+BANKBARODA,Bank of Baroda,Financial Services,INE028A01039,Nifty 100,BANKBARODA.NS
+BANKINDIA,Bank of India,Financial Services,INE084A01016,Midcap 150,BANKINDIA.NS
+BATAINDIA,Bata India Ltd.,Consumer Durables,INE176A01028,Smallcap 250,BATAINDIA.NS
+BBOX,Black Box Ltd.,Information Technology,INE676A01027,Smallcap 250,BBOX.NS
+BDL,Bharat Dynamics Ltd.,Capital Goods,INE171Z01026,Midcap 150,BDL.NS
+BEL,Bharat Electronics Ltd.,Capital Goods,INE263A01024,Nifty 100,BEL.NS
+BELRISE,Belrise Industries Ltd.,Automobile and Auto Components,INE894V01022,Smallcap 250,BELRISE.NS
+BEML,BEML Ltd.,Capital Goods,INE258A01024,Smallcap 250,BEML.NS
+BERGEPAINT,Berger Paints India Ltd.,Consumer Durables,INE463A01038,Midcap 150,BERGEPAINT.NS
+BHARATCOAL,Bharat Coking Coal Ltd.,Oil Gas & Consumable Fuels,INE05XR01022,Smallcap 250,BHARATCOAL.NS
+BHARATFORG,Bharat Forge Ltd.,Automobile and Auto Components,INE465A01025,Midcap 150,BHARATFORG.NS
+BHARTIARTL,Bharti Airtel Ltd.,Telecommunication,INE397D01024,Nifty 100,BHARTIARTL.NS
+BHARTIHEXA,Bharti Hexacom Ltd.,Telecommunication,INE343G01021,Midcap 150,BHARTIHEXA.NS
+BHEL,Bharat Heavy Electricals Ltd.,Capital Goods,INE257A01026,Midcap 150,BHEL.NS
+BIOCON,Biocon Ltd.,Healthcare,INE376G01013,Midcap 150,BIOCON.NS
+BIRET,Brookfield India Real Estate Trust,Realty,INE0FDU25010,Smallcap 250,BIRET.NS
+BLS,BLS International Services Ltd.,Consumer Services,INE153T01027,Smallcap 250,BLS.NS
+BLUESTARCO,Blue Star Ltd.,Consumer Durables,INE472A01039,Midcap 150,BLUESTARCO.NS
+BOSCHLTD,Bosch Ltd.,Automobile and Auto Components,INE323A01026,Nifty 100,BOSCHLTD.NS
+BPCL,Bharat Petroleum Corporation Ltd.,Oil Gas & Consumable Fuels,INE029A01011,Nifty 100,BPCL.NS
+BRIGADE,Brigade Enterprises Ltd.,Realty,INE791I01019,Smallcap 250,BRIGADE.NS
+BRITANNIA,Britannia Industries Ltd.,Fast Moving Consumer Goods,INE216A01030,Nifty 100,BRITANNIA.NS
+BSE,BSE Ltd.,Financial Services,INE118H01025,Nifty 100,BSE.NS
+BSOFT,Birlasoft Ltd.,Information Technology,INE836A01035,Smallcap 250,BSOFT.NS
+CAMS,Computer Age Management Services Ltd.,Financial Services,INE596I01020,Smallcap 250,CAMS.NS
+CANBK,Canara Bank,Financial Services,INE476A01022,Nifty 100,CANBK.NS
+CANFINHOME,Can Fin Homes Ltd.,Financial Services,INE477A01020,Smallcap 250,CANFINHOME.NS
+CANHLIFE,Canara HSBC Life Insurance Company Ltd.,Financial Services,INE01TY01017,Smallcap 250,CANHLIFE.NS
+CAPLIPOINT,Caplin Point Laboratories Ltd.,Healthcare,INE475E01026,Smallcap 250,CAPLIPOINT.NS
+CARBORUNIV,Carborundum Universal Ltd.,Capital Goods,INE120A01034,Smallcap 250,CARBORUNIV.NS
+CARTRADE,Cartrade Tech Ltd.,Consumer Services,INE290S01011,Smallcap 250,CARTRADE.NS
+CASTROLIND,Castrol India Ltd.,Oil Gas & Consumable Fuels,INE172A01027,Smallcap 250,CASTROLIND.NS
+CCL,CCL Products (I) Ltd.,Fast Moving Consumer Goods,INE421D01022,Smallcap 250,CCL.NS
+CDSL,Central Depository Services (India) Ltd.,Financial Services,INE736A01011,Smallcap 250,CDSL.NS
+CEATLTD,Ceat Ltd.,Automobile and Auto Components,INE482A01020,Smallcap 250,CEATLTD.NS
+CEMPRO,Cemindia Projects Ltd.,Construction,INE686A01026,Smallcap 250,CEMPRO.NS
+CENTRALBK,Central Bank of India,Financial Services,INE483A01010,Smallcap 250,CENTRALBK.NS
+CESC,CESC Ltd.,Power,INE486A01021,Smallcap 250,CESC.NS
+CGCL,Capri Global Capital Ltd.,Financial Services,INE180C01042,Smallcap 250,CGCL.NS
+CGPOWER,CG Power and Industrial Solutions Ltd.,Capital Goods,INE067A01029,Nifty 100,CGPOWER.NS
+CHAMBLFERT,Chambal Fertilizers & Chemicals Ltd.,Chemicals,INE085A01013,Smallcap 250,CHAMBLFERT.NS
+CHENNPETRO,Chennai Petroleum Corporation Ltd.,Oil Gas & Consumable Fuels,INE178A01016,Smallcap 250,CHENNPETRO.NS
+CHOICEIN,Choice International Ltd.,Financial Services,INE102B01014,Smallcap 250,CHOICEIN.NS
+CHOLAFIN,Cholamandalam Investment and Finance Company Ltd.,Financial Services,INE121A01024,Nifty 100,CHOLAFIN.NS
+CHOLAHLDNG,Cholamandalam Financial Holdings Ltd.,Financial Services,INE149A01033,Smallcap 250,CHOLAHLDNG.NS
+CIEINDIA,CIE Automotive India Ltd.,Automobile and Auto Components,INE536H01010,Smallcap 250,CIEINDIA.NS
+CIPLA,Cipla Ltd.,Healthcare,INE059A01026,Nifty 100,CIPLA.NS
+CLEAN,Clean Science and Technology Ltd.,Chemicals,INE227W01023,Smallcap 250,CLEAN.NS
+CLEANMAX,Clean Max Enviro Energy Solutions Ltd.,Power,INE647U01026,Smallcap 250,CLEANMAX.NS
+CMPDI,Central Mine Planning & Design Institute Ltd.,Services,INE05HV01027,Smallcap 250,CMPDI.NS
+COALINDIA,Coal India Ltd.,Oil Gas & Consumable Fuels,INE522F01014,Nifty 100,COALINDIA.NS
+COCHINSHIP,Cochin Shipyard Ltd.,Capital Goods,INE704P01025,Midcap 150,COCHINSHIP.NS
+COFORGE,Coforge Ltd.,Information Technology,INE591G01025,Midcap 150,COFORGE.NS
+COHANCE,Cohance Lifesciences Ltd.,Healthcare,INE03QK01018,Smallcap 250,COHANCE.NS
+COLPAL,Colgate Palmolive (India) Ltd.,Fast Moving Consumer Goods,INE259A01022,Midcap 150,COLPAL.NS
+CONCOR,Container Corporation of India Ltd.,Services,INE111A01025,Midcap 150,CONCOR.NS
+CONCORDBIO,Concord Biotech Ltd.,Healthcare,INE338H01029,Smallcap 250,CONCORDBIO.NS
+COROMANDEL,Coromandel International Ltd.,Chemicals,INE169A01031,Midcap 150,COROMANDEL.NS
+CPPLUS,Aditya Infotech Ltd.,Capital Goods,INE819V01029,Smallcap 250,CPPLUS.NS
+CRAFTSMAN,Craftsman Automation Ltd.,Automobile and Auto Components,INE00LO01017,Smallcap 250,CRAFTSMAN.NS
+CREDITACC,CreditAccess Grameen Ltd.,Financial Services,INE741K01010,Smallcap 250,CREDITACC.NS
+CRISIL,CRISIL Ltd.,Financial Services,INE007A01025,Midcap 150,CRISIL.NS
+CROMPTON,Crompton Greaves Consumer Electricals Ltd.,Consumer Durables,INE299U01018,Smallcap 250,CROMPTON.NS
+CUB,City Union Bank Ltd.,Financial Services,INE491A01021,Smallcap 250,CUB.NS
+CUMMINSIND,Cummins India Ltd.,Capital Goods,INE298A01020,Nifty 100,CUMMINSIND.NS
+CUPID,Cupid Ltd.,Fast Moving Consumer Goods,INE509F01029,Smallcap 250,CUPID.NS
+CYIENT,Cyient Ltd.,Information Technology,INE136B01020,Smallcap 250,CYIENT.NS
+DABUR,Dabur India Ltd.,Fast Moving Consumer Goods,INE016A01026,Midcap 150,DABUR.NS
+DALBHARAT,Dalmia Bharat Ltd.,Construction Materials,INE00R701025,Midcap 150,DALBHARAT.NS
+DATAPATTNS,Data Patterns (India) Ltd.,Capital Goods,INE0IX101010,Smallcap 250,DATAPATTNS.NS
+DEEPAKFERT,Deepak Fertilisers & Petrochemicals Corp. Ltd.,Chemicals,INE501A01019,Smallcap 250,DEEPAKFERT.NS
+DEEPAKNTR,Deepak Nitrite Ltd.,Chemicals,INE288B01029,Smallcap 250,DEEPAKNTR.NS
+DELHIVERY,Delhivery Ltd.,Services,INE148O01028,Smallcap 250,DELHIVERY.NS
+DEVYANI,Devyani International Ltd.,Consumer Services,INE872J01023,Smallcap 250,DEVYANI.NS
+DIVISLAB,Divi's Laboratories Ltd.,Healthcare,INE361B01024,Nifty 100,DIVISLAB.NS
+DIXON,Dixon Technologies (India) Ltd.,Consumer Durables,INE935N01020,Midcap 150,DIXON.NS
+DLF,DLF Ltd.,Realty,INE271C01023,Nifty 100,DLF.NS
+DMART,Avenue Supermarts Ltd.,Consumer Services,INE192R01011,Nifty 100,DMART.NS
+DOMS,DOMS Industries Ltd.,Fast Moving Consumer Goods,INE321T01012,Smallcap 250,DOMS.NS
+DRREDDY,Dr. Reddy's Laboratories Ltd.,Healthcare,INE089A01031,Nifty 100,DRREDDY.NS
+DUMMYHEG,Dummy HEG Ltd.,Capital Goods,DUM545A01024,Smallcap 250,DUMMYHEG.NS
+ECLERX,eClerx Services Ltd.,Services,INE738I01010,Smallcap 250,ECLERX.NS
+EICHERMOT,Eicher Motors Ltd.,Automobile and Auto Components,INE066A01021,Nifty 100,EICHERMOT.NS
+EIDPARRY,E.I.D. Parry (India) Ltd.,Fast Moving Consumer Goods,INE126A01031,Smallcap 250,EIDPARRY.NS
+EIHOTEL,EIH Ltd.,Consumer Services,INE230A01023,Smallcap 250,EIHOTEL.NS
+ELECON,Elecon Engineering Co. Ltd.,Capital Goods,INE205B01031,Smallcap 250,ELECON.NS
+ELGIEQUIP,Elgi Equipments Ltd.,Capital Goods,INE285A01027,Smallcap 250,ELGIEQUIP.NS
+EMAMILTD,Emami Ltd.,Fast Moving Consumer Goods,INE548C01032,Smallcap 250,EMAMILTD.NS
+EMBASSY,EMBASSY OFFICE PARKS REIT,Realty,INE041025011,Midcap 150,EMBASSY.NS
+EMCURE,Emcure Pharmaceuticals Ltd.,Healthcare,INE168P01015,Smallcap 250,EMCURE.NS
+EMMVEE,Emmvee Photovoltaic Power Ltd.,Capital Goods,INE1C6T01020,Smallcap 250,EMMVEE.NS
+ENDURANCE,Endurance Technologies Ltd.,Automobile and Auto Components,INE913H01037,Midcap 150,ENDURANCE.NS
+ENGINERSIN,Engineers India Ltd.,Construction,INE510A01028,Smallcap 250,ENGINERSIN.NS
+ENRIN,Siemens Energy India Ltd.,Capital Goods,INE1NPP01017,Nifty 100,ENRIN.NS
+ESCORTS,Escorts Kubota Ltd.,Capital Goods,INE042A01014,Midcap 150,ESCORTS.NS
+ETERNAL,Eternal Ltd.,Consumer Services,INE758T01015,Nifty 100,ETERNAL.NS
+EXIDEIND,Exide Industries Ltd.,Automobile and Auto Components,INE302A01020,Midcap 150,EXIDEIND.NS
+FACT,Fertilisers and Chemicals Travancore Ltd.,Chemicals,INE188A01015,Midcap 150,FACT.NS
+FEDERALBNK,Federal Bank Ltd.,Financial Services,INE171A01029,Midcap 150,FEDERALBNK.NS
+FINCABLES,Finolex Cables Ltd.,Capital Goods,INE235A01022,Smallcap 250,FINCABLES.NS
+FIRSTCRY,Brainbees Solutions Ltd.,Consumer Services,INE02RE01045,Smallcap 250,FIRSTCRY.NS
+FIVESTAR,Five-Star Business Finance Ltd.,Financial Services,INE128S01021,Smallcap 250,FIVESTAR.NS
+FLUOROCHEM,Gujarat Fluorochemicals Ltd.,Chemicals,INE09N301011,Midcap 150,FLUOROCHEM.NS
+FORCEMOT,Force Motors Ltd.,Automobile and Auto Components,INE451A01017,Smallcap 250,FORCEMOT.NS
+FORTIS,Fortis Healthcare Ltd.,Healthcare,INE061F01013,Midcap 150,FORTIS.NS
+FRACTAL,Fractal Analytics Ltd.,Information Technology,INE212S01015,Smallcap 250,FRACTAL.NS
+FSL,Firstsource Solutions Ltd.,Services,INE684F01012,Smallcap 250,FSL.NS
+GABRIEL,Gabriel India Ltd.,Automobile and Auto Components,INE524A01029,Smallcap 250,GABRIEL.NS
+GAIL,GAIL (India) Ltd.,Oil Gas & Consumable Fuels,INE129A01019,Nifty 100,GAIL.NS
+GALLANTT,Gallantt Ispat Ltd.,Capital Goods,INE297H01019,Smallcap 250,GALLANTT.NS
+GESHIP,Great Eastern Shipping Co. Ltd.,Services,INE017A01032,Smallcap 250,GESHIP.NS
+GICRE,General Insurance Corporation of India,Financial Services,INE481Y01014,Midcap 150,GICRE.NS
+GILLETTE,Gillette India Ltd.,Fast Moving Consumer Goods,INE322A01010,Smallcap 250,GILLETTE.NS
+GLAND,Gland Pharma Ltd.,Healthcare,INE068V01023,Smallcap 250,GLAND.NS
+GLAXO,Glaxosmithkline Pharmaceuticals Ltd.,Healthcare,INE159A01016,Midcap 150,GLAXO.NS
+GLENMARK,Glenmark Pharmaceuticals Ltd.,Healthcare,INE935A01035,Midcap 150,GLENMARK.NS
+GMDCLTD,Gujarat Mineral Development Corporation Ltd.,Metals & Mining,INE131A01031,Smallcap 250,GMDCLTD.NS
+GMRAIRPORT,GMR Airports Ltd.,Services,INE776C01039,Midcap 150,GMRAIRPORT.NS
+GODFRYPHLP,Godfrey Phillips India Ltd.,Fast Moving Consumer Goods,INE260B01028,Midcap 150,GODFRYPHLP.NS
+GODREJCP,Godrej Consumer Products Ltd.,Fast Moving Consumer Goods,INE102D01028,Nifty 100,GODREJCP.NS
+GODREJIND,Godrej Industries Ltd.,Diversified,INE233A01035,Midcap 150,GODREJIND.NS
+GODREJPROP,Godrej Properties Ltd.,Realty,INE484J01027,Midcap 150,GODREJPROP.NS
+GPIL,Godawari Power & Ispat Ltd.,Capital Goods,INE177H01039,Smallcap 250,GPIL.NS
+GRANULES,Granules India Ltd.,Healthcare,INE101D01020,Smallcap 250,GRANULES.NS
+GRAPHITE,Graphite India Ltd.,Capital Goods,INE371A01025,Smallcap 250,GRAPHITE.NS
+GRASIM,Grasim Industries Ltd.,Construction Materials,INE047A01021,Nifty 100,GRASIM.NS
+GRAVITA,Gravita India Ltd.,Metals & Mining,INE024L01027,Smallcap 250,GRAVITA.NS
+GROWW,Billionbrains Garage Ventures Ltd.,Financial Services,INE0HOQ01053,Midcap 150,GROWW.NS
+GRSE,Garden Reach Shipbuilders & Engineers Ltd.,Capital Goods,INE382Z01011,Smallcap 250,GRSE.NS
+GVT&D,GE Vernova T&D India Ltd.,Capital Goods,INE200A01026,Midcap 150,GVT&D.NS
+HAL,Hindustan Aeronautics Ltd.,Capital Goods,INE066F01020,Nifty 100,HAL.NS
+HAVELLS,Havells India Ltd.,Consumer Durables,INE176B01034,Midcap 150,HAVELLS.NS
+HBLENGINE,HBL Engineering Ltd.,Capital Goods,INE292B01021,Smallcap 250,HBLENGINE.NS
+HCLTECH,HCL Technologies Ltd.,Information Technology,INE860A01027,Nifty 100,HCLTECH.NS
+HDBFS,HDB Financial Services Ltd.,Financial Services,INE756I01012,Midcap 150,HDBFS.NS
+HDFCAMC,HDFC Asset Management Company Ltd.,Financial Services,INE127D01025,Nifty 100,HDFCAMC.NS
+HDFCBANK,HDFC Bank Ltd.,Financial Services,INE040A01034,Nifty 100,HDFCBANK.NS
+HDFCLIFE,HDFC Life Insurance Company Ltd.,Financial Services,INE795G01014,Nifty 100,HDFCLIFE.NS
+HEGAM,HEG Advanced Materials Ltd.,Capital Goods,INE545A01024,Smallcap 250,HEGAM.NS
+HEROMOTOCO,Hero MotoCorp Ltd.,Automobile and Auto Components,INE158A01026,Midcap 150,HEROMOTOCO.NS
+HEXT,Hexaware Technologies Ltd.,Information Technology,INE093A01041,Midcap 150,HEXT.NS
+HFCL,HFCL Ltd.,Telecommunication,INE548A01028,Smallcap 250,HFCL.NS
+HINDALCO,Hindalco Industries Ltd.,Metals & Mining,INE038A01020,Nifty 100,HINDALCO.NS
+HINDCOPPER,Hindustan Copper Ltd.,Metals & Mining,INE531E01026,Midcap 150,HINDCOPPER.NS
+HINDPETRO,Hindustan Petroleum Corporation Ltd.,Oil Gas & Consumable Fuels,INE094A01015,Midcap 150,HINDPETRO.NS
+HINDUNILVR,Hindustan Unilever Ltd.,Fast Moving Consumer Goods,INE030A01027,Nifty 100,HINDUNILVR.NS
+HINDZINC,Hindustan Zinc Ltd.,Metals & Mining,INE267A01025,Nifty 100,HINDZINC.NS
+HOMEFIRST,Home First Finance Company India Ltd.,Financial Services,INE481N01025,Smallcap 250,HOMEFIRST.NS
+HONASA,Honasa Consumer Ltd.,Fast Moving Consumer Goods,INE0J5401028,Smallcap 250,HONASA.NS
+HONAUT,Honeywell Automation India Ltd.,Capital Goods,INE671A01010,Smallcap 250,HONAUT.NS
+HSCL,Himadri Speciality Chemical Ltd.,Chemicals,INE019C01026,Smallcap 250,HSCL.NS
+HUDCO,Housing & Urban Development Corporation Ltd.,Financial Services,INE031A01017,Midcap 150,HUDCO.NS
+HYUNDAI,Hyundai Motor India Ltd.,Automobile and Auto Components,INE0V6F01027,Nifty 100,HYUNDAI.NS
+ICICIAMC,ICICI Prudential Asset Management Company Ltd.,Financial Services,INE346A01027,Midcap 150,ICICIAMC.NS
+ICICIBANK,ICICI Bank Ltd.,Financial Services,INE090A01021,Nifty 100,ICICIBANK.NS
+ICICIGI,ICICI Lombard General Insurance Company Ltd.,Financial Services,INE765G01017,Midcap 150,ICICIGI.NS
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd.,Financial Services,INE726G01019,Midcap 150,ICICIPRULI.NS
+IDBI,IDBI Bank Ltd.,Financial Services,INE008A01015,Smallcap 250,IDBI.NS
+IDEA,Vodafone Idea Ltd.,Telecommunication,INE669E01016,Nifty 100,IDEA.NS
+IDFCFIRSTB,IDFC First Bank Ltd.,Financial Services,INE092T01019,Midcap 150,IDFCFIRSTB.NS
+IEX,Indian Energy Exchange Ltd.,Financial Services,INE022Q01020,Smallcap 250,IEX.NS
+IFCI,IFCI Ltd.,Financial Services,INE039A01010,Smallcap 250,IFCI.NS
+IGIL,International Gemological Institute Ltd.,Services,INE0Q9301021,Smallcap 250,IGIL.NS
+IGL,Indraprastha Gas Ltd.,Oil Gas & Consumable Fuels,INE203G01027,Smallcap 250,IGL.NS
+IIFL,IIFL Finance Ltd.,Financial Services,INE530B01024,Smallcap 250,IIFL.NS
+IKS,Inventurus Knowledge Solutions Ltd.,Information Technology,INE115Q01022,Smallcap 250,IKS.NS
+INDHOTEL,Indian Hotels Co. Ltd.,Consumer Services,INE053A01029,Midcap 150,INDHOTEL.NS
+INDIACEM,India Cements Ltd.,Construction Materials,INE383A01012,Smallcap 250,INDIACEM.NS
+INDIAMART,Indiamart Intermesh Ltd.,Consumer Services,INE933S01016,Smallcap 250,INDIAMART.NS
+INDIANB,Indian Bank,Financial Services,INE562A01011,Midcap 150,INDIANB.NS
+INDIGO,InterGlobe Aviation Ltd.,Services,INE646L01027,Nifty 100,INDIGO.NS
+INDUSINDBK,IndusInd Bank Ltd.,Financial Services,INE095A01012,Midcap 150,INDUSINDBK.NS
+INDUSTOWER,Indus Towers Ltd.,Telecommunication,INE121J01017,Midcap 150,INDUSTOWER.NS
+INFY,Infosys Ltd.,Information Technology,INE009A01021,Nifty 100,INFY.NS
+INOXINDIA,INOX India Ltd.,Capital Goods,INE616N01034,Smallcap 250,INOXINDIA.NS
+INOXWIND,Inox Wind Ltd.,Capital Goods,INE066P01011,Smallcap 250,INOXWIND.NS
+INTELLECT,Intellect Design Arena Ltd.,Information Technology,INE306R01017,Smallcap 250,INTELLECT.NS
+IOB,Indian Overseas Bank,Financial Services,INE565A01014,Midcap 150,IOB.NS
+IOC,Indian Oil Corporation Ltd.,Oil Gas & Consumable Fuels,INE242A01010,Nifty 100,IOC.NS
+IPCALAB,Ipca Laboratories Ltd.,Healthcare,INE571A01038,Midcap 150,IPCALAB.NS
+IRB,IRB Infrastructure Developers Ltd.,Construction,INE821I01022,Smallcap 250,IRB.NS
+IRCON,IRCON International Ltd.,Construction,INE962Y01021,Smallcap 250,IRCON.NS
+IRCTC,Indian Railway Catering And Tourism Corporation Ltd.,Consumer Services,INE335Y01020,Midcap 150,IRCTC.NS
+IREDA,Indian Renewable Energy Development Agency Ltd.,Financial Services,INE202E01016,Midcap 150,IREDA.NS
+IRFC,Indian Railway Finance Corporation Ltd.,Financial Services,INE053F01010,Nifty 100,IRFC.NS
+ITC,ITC Ltd.,Fast Moving Consumer Goods,INE154A01025,Nifty 100,ITC.NS
+ITCHOTELS,ITC Hotels Ltd.,Consumer Services,INE379A01028,Midcap 150,ITCHOTELS.NS
+ITI,ITI Ltd.,Telecommunication,INE248A01017,Smallcap 250,ITI.NS
+J&KBANK,Jammu & Kashmir Bank Ltd.,Financial Services,INE168A01041,Smallcap 250,J&KBANK.NS
+JAINREC,Jain Resource Recycling Ltd.,Metals & Mining,INE0YD401026,Smallcap 250,JAINREC.NS
+JBMA,JBM Auto Ltd.,Automobile and Auto Components,INE927D01051,Smallcap 250,JBMA.NS
+JINDALSAW,Jindal Saw Ltd.,Capital Goods,INE324A01032,Smallcap 250,JINDALSAW.NS
+JINDALSTEL,Jindal Steel Ltd.,Metals & Mining,INE749A01030,Nifty 100,JINDALSTEL.NS
+JIOFIN,Jio Financial Services Ltd.,Financial Services,INE758E01017,Nifty 100,JIOFIN.NS
+JKCEMENT,J.K. Cement Ltd.,Construction Materials,INE823G01014,Midcap 150,JKCEMENT.NS
+JKTYRE,JK Tyre & Industries Ltd.,Automobile and Auto Components,INE573A01042,Smallcap 250,JKTYRE.NS
+JMFINANCIL,JM Financial Ltd.,Financial Services,INE780C01023,Smallcap 250,JMFINANCIL.NS
+JPPOWER,Jaiprakash Power Ventures Ltd.,Power,INE351F01018,Smallcap 250,JPPOWER.NS
+JSL,Jindal Stainless Ltd.,Metals & Mining,INE220G01021,Midcap 150,JSL.NS
+JSWCEMENT,JSW Cement Ltd.,Construction Materials,INE718I01012,Smallcap 250,JSWCEMENT.NS
+JSWENERGY,JSW Energy Ltd.,Power,INE121E01018,Midcap 150,JSWENERGY.NS
+JSWINFRA,JSW Infrastructure Ltd.,Services,INE880J01026,Midcap 150,JSWINFRA.NS
+JSWSTEEL,JSW Steel Ltd.,Metals & Mining,INE019A01038,Nifty 100,JSWSTEEL.NS
+JUBLFOOD,Jubilant Foodworks Ltd.,Consumer Services,INE797F01020,Midcap 150,JUBLFOOD.NS
+JUBLINGREA,Jubilant Ingrevia Ltd.,Chemicals,INE0BY001018,Smallcap 250,JUBLINGREA.NS
+JWL,Jupiter Wagons Ltd.,Capital Goods,INE209L01016,Smallcap 250,JWL.NS
+JYOTICNC,Jyoti CNC Automation Ltd.,Capital Goods,INE980O01024,Smallcap 250,JYOTICNC.NS
+KAJARIACER,Kajaria Ceramics Ltd.,Consumer Durables,INE217B01036,Smallcap 250,KAJARIACER.NS
+KALYANKJIL,Kalyan Jewellers India Ltd.,Consumer Durables,INE303R01014,Midcap 150,KALYANKJIL.NS
+KARURVYSYA,Karur Vysya Bank Ltd.,Financial Services,INE036D01028,Smallcap 250,KARURVYSYA.NS
+KAYNES,Kaynes Technology India Ltd.,Capital Goods,INE918Z01012,Smallcap 250,KAYNES.NS
+KEC,Kec International Ltd.,Construction,INE389H01022,Smallcap 250,KEC.NS
+KEI,KEI Industries Ltd.,Capital Goods,INE878B01027,Midcap 150,KEI.NS
+KFINTECH,Kfin Technologies Ltd.,Financial Services,INE138Y01010,Smallcap 250,KFINTECH.NS
+KIMS,Krishna Institute of Medical Sciences Ltd.,Healthcare,INE967H01025,Smallcap 250,KIMS.NS
+KIRLOSBROS,Kirloskar Brothers Ltd.,Capital Goods,INE732A01036,Smallcap 250,KIRLOSBROS.NS
+KIRLOSENG,Kirloskar Oil Eng Ltd.,Capital Goods,INE146L01010,Smallcap 250,KIRLOSENG.NS
+KOTAKBANK,Kotak Mahindra Bank Ltd.,Financial Services,INE237A01036,Nifty 100,KOTAKBANK.NS
+KPIL,Kalpataru Projects International Ltd.,Construction,INE220B01022,Smallcap 250,KPIL.NS
+KPITTECH,KPIT Technologies Ltd.,Information Technology,INE04I401011,Smallcap 250,KPITTECH.NS
+KPRMILL,K.P.R. Mill Ltd.,Textiles,INE930H01031,Midcap 150,KPRMILL.NS
+KSB,KSB Ltd.,Capital Goods,INE999A01023,Smallcap 250,KSB.NS
+LALPATHLAB,Dr. Lal Path Labs Ltd.,Healthcare,INE600L01024,Smallcap 250,LALPATHLAB.NS
+LAURUSLABS,Laurus Labs Ltd.,Healthcare,INE947Q01028,Midcap 150,LAURUSLABS.NS
+LEMONTREE,Lemon Tree Hotels Ltd.,Consumer Services,INE970X01018,Smallcap 250,LEMONTREE.NS
+LENSKART,Lenskart Solutions Ltd.,Consumer Services,INE956O01016,Midcap 150,LENSKART.NS
+LGEINDIA,LG Electronics India Ltd.,Consumer Durables,INE324D01010,Midcap 150,LGEINDIA.NS
+LICHSGFIN,LIC Housing Finance Ltd.,Financial Services,INE115A01026,Midcap 150,LICHSGFIN.NS
+LICI,Life Insurance Corporation of India,Financial Services,INE0J1Y01017,Midcap 150,LICI.NS
+LINDEINDIA,Linde India Ltd.,Chemicals,INE473A01011,Midcap 150,LINDEINDIA.NS
+LLOYDSME,Lloyds Metals And Energy Ltd.,Metals & Mining,INE281B01032,Midcap 150,LLOYDSME.NS
+LODHA,Lodha Developers Ltd.,Realty,INE670K01029,Midcap 150,LODHA.NS
+LT,Larsen & Toubro Ltd.,Construction,INE018A01030,Nifty 100,LT.NS
+LTF,L&T Finance Ltd.,Financial Services,INE498L01015,Midcap 150,LTF.NS
+LTFOODS,LT Foods Ltd.,Fast Moving Consumer Goods,INE818H01020,Smallcap 250,LTFOODS.NS
+LTM,LTM Ltd.,Information Technology,INE214T01019,Nifty 100,LTM.NS
+LTTS,L&T Technology Services Ltd.,Information Technology,INE010V01017,Midcap 150,LTTS.NS
+LUPIN,Lupin Ltd.,Healthcare,INE326A01037,Midcap 150,LUPIN.NS
+M&M,Mahindra & Mahindra Ltd.,Automobile and Auto Components,INE101A01026,Nifty 100,M&M.NS
+M&MFIN,Mahindra & Mahindra Financial Services Ltd.,Financial Services,INE774D01024,Midcap 150,M&MFIN.NS
+MAHABANK,Bank of Maharashtra,Financial Services,INE457A01014,Midcap 150,MAHABANK.NS
+MANAPPURAM,Manappuram Finance Ltd.,Financial Services,INE522D01027,Smallcap 250,MANAPPURAM.NS
+MANKIND,Mankind Pharma Ltd.,Healthcare,INE634S01028,Midcap 150,MANKIND.NS
+MARICO,Marico Ltd.,Fast Moving Consumer Goods,INE196A01026,Midcap 150,MARICO.NS
+MARUTI,Maruti Suzuki India Ltd.,Automobile and Auto Components,INE585B01010,Nifty 100,MARUTI.NS
+MAXHEALTH,Max Healthcare Institute Ltd.,Healthcare,INE027H01010,Nifty 100,MAXHEALTH.NS
+MAZDOCK,Mazagoan Dock Shipbuilders Ltd.,Capital Goods,INE249Z01020,Nifty 100,MAZDOCK.NS
+MCX,Multi Commodity Exchange of India Ltd.,Financial Services,INE745G01043,Midcap 150,MCX.NS
+MEDANTA,Global Health Ltd.,Healthcare,INE474Q01031,Midcap 150,MEDANTA.NS
+MEESHO,Meesho Ltd.,Consumer Services,INE0VDM01015,Midcap 150,MEESHO.NS
+MFSL,Max Financial Services Ltd.,Financial Services,INE180A01020,Midcap 150,MFSL.NS
+MGL,Mahanagar Gas Ltd.,Oil Gas & Consumable Fuels,INE002S01010,Smallcap 250,MGL.NS
+MINDACORP,Minda Corporation Ltd.,Automobile and Auto Components,INE842C01021,Smallcap 250,MINDACORP.NS
+MMTC,MMTC Ltd.,Services,INE123F01029,Smallcap 250,MMTC.NS
+MOTHERSON,Samvardhana Motherson International Ltd.,Automobile and Auto Components,INE775A01035,Nifty 100,MOTHERSON.NS
+MOTILALOFS,Motilal Oswal Financial Services Ltd.,Financial Services,INE338I01027,Midcap 150,MOTILALOFS.NS
+MPHASIS,MphasiS Ltd.,Information Technology,INE356A01018,Midcap 150,MPHASIS.NS
+MRF,MRF Ltd.,Automobile and Auto Components,INE883A01011,Midcap 150,MRF.NS
+MRPL,Mangalore Refinery & Petrochemicals Ltd.,Oil Gas & Consumable Fuels,INE103A01014,Smallcap 250,MRPL.NS
+MSUMI,Motherson Sumi Wiring India Ltd.,Automobile and Auto Components,INE0FS801015,Smallcap 250,MSUMI.NS
+MTARTECH,MTAR Technologies Ltd.,Capital Goods,INE864I01014,Smallcap 250,MTARTECH.NS
+MUTHOOTFIN,Muthoot Finance Ltd.,Financial Services,INE414G01012,Nifty 100,MUTHOOTFIN.NS
+NAM-INDIA,Nippon Life India Asset Management Ltd.,Financial Services,INE298J01013,Midcap 150,NAM-INDIA.NS
+NATCOPHARM,NATCO Pharma Ltd.,Healthcare,INE987B01026,Smallcap 250,NATCOPHARM.NS
+NATIONALUM,National Aluminium Co. Ltd.,Metals & Mining,INE139A01034,Midcap 150,NATIONALUM.NS
+NAUKRI,Info Edge (India) Ltd.,Consumer Services,INE663F01032,Midcap 150,NAUKRI.NS
+NAVA,Nava Ltd.,Power,INE725A01030,Smallcap 250,NAVA.NS
+NAVINFLUOR,Navin Fluorine International Ltd.,Chemicals,INE048G01026,Smallcap 250,NAVINFLUOR.NS
+NBCC,NBCC (India) Ltd.,Construction,INE095N01031,Smallcap 250,NBCC.NS
+NCC,NCC Ltd.,Construction,INE868B01028,Smallcap 250,NCC.NS
+NESTLEIND,Nestle India Ltd.,Fast Moving Consumer Goods,INE239A01024,Nifty 100,NESTLEIND.NS
+NETWEB,Netweb Technologies India Ltd.,Information Technology,INE0NT901020,Smallcap 250,NETWEB.NS
+NEULANDLAB,Neuland Laboratories Ltd.,Healthcare,INE794A01010,Smallcap 250,NEULANDLAB.NS
+NH,Narayana Hrudayalaya Ltd.,Healthcare,INE410P01011,Midcap 150,NH.NS
+NHPC,NHPC Ltd.,Power,INE848E01016,Midcap 150,NHPC.NS
+NIACL,The New India Assurance Company Ltd.,Financial Services,INE470Y01017,Smallcap 250,NIACL.NS
+NLCINDIA,NLC India Ltd.,Power,INE589A01014,Midcap 150,NLCINDIA.NS
+NMDC,NMDC Ltd.,Metals & Mining,INE584A01023,Midcap 150,NMDC.NS
+NSLNISP,NMDC Steel Ltd.,Metals & Mining,INE0NNS01018,Smallcap 250,NSLNISP.NS
+NTPC,NTPC Ltd.,Power,INE733E01010,Nifty 100,NTPC.NS
+NTPCGREEN,NTPC Green Energy Ltd.,Power,INE0ONG01011,Midcap 150,NTPCGREEN.NS
+NUVAMA,Nuvama Wealth Management Ltd.,Financial Services,INE531F01023,Smallcap 250,NUVAMA.NS
+NUVOCO,Nuvoco Vistas Corporation Ltd.,Construction Materials,INE118D01016,Smallcap 250,NUVOCO.NS
+NYKAA,FSN E-Commerce Ventures Ltd.,Consumer Services,INE388Y01029,Midcap 150,NYKAA.NS
+OBEROIRLTY,Oberoi Realty Ltd.,Realty,INE093I01010,Midcap 150,OBEROIRLTY.NS
+OFSS,Oracle Financial Services Software Ltd.,Information Technology,INE881D01027,Midcap 150,OFSS.NS
+OIL,Oil India Ltd.,Oil Gas & Consumable Fuels,INE274J01014,Midcap 150,OIL.NS
+OLAELEC,Ola Electric Mobility Ltd.,Automobile and Auto Components,INE0LXG01040,Smallcap 250,OLAELEC.NS
+OLECTRA,Olectra Greentech Ltd.,Automobile and Auto Components,INE260D01016,Smallcap 250,OLECTRA.NS
+ONESOURCE,Onesource Specialty Pharma Ltd.,Healthcare,INE013P01021,Smallcap 250,ONESOURCE.NS
+ONGC,Oil & Natural Gas Corporation Ltd.,Oil Gas & Consumable Fuels,INE213A01029,Nifty 100,ONGC.NS
+PAGEIND,Page Industries Ltd.,Textiles,INE761H01022,Midcap 150,PAGEIND.NS
+PARADEEP,Paradeep Phosphates Ltd.,Chemicals,INE088F01024,Smallcap 250,PARADEEP.NS
+PATANJALI,Patanjali Foods Ltd.,Fast Moving Consumer Goods,INE619A01035,Midcap 150,PATANJALI.NS
+PAYTM,One 97 Communications Ltd.,Financial Services,INE982J01020,Midcap 150,PAYTM.NS
+PCBL,PCBL Chemical Ltd.,Chemicals,INE602A01031,Smallcap 250,PCBL.NS
+PERSISTENT,Persistent Systems Ltd.,Information Technology,INE262H01021,Midcap 150,PERSISTENT.NS
+PETRONET,Petronet LNG Ltd.,Oil Gas & Consumable Fuels,INE347G01014,Midcap 150,PETRONET.NS
+PFC,Power Finance Corporation Ltd.,Financial Services,INE134E01011,Nifty 100,PFC.NS
+PFOCUS,Prime Focus Ltd.,Media Entertainment & Publication,INE367G01038,Smallcap 250,PFOCUS.NS
+PGEL,PG Electroplast Ltd.,Consumer Durables,INE457L01029,Smallcap 250,PGEL.NS
+PHOENIXLTD,Phoenix Mills Ltd.,Realty,INE211B01039,Midcap 150,PHOENIXLTD.NS
+PIDILITIND,Pidilite Industries Ltd.,Chemicals,INE318A01026,Nifty 100,PIDILITIND.NS
+PIIND,PI Industries Ltd.,Chemicals,INE603J01030,Midcap 150,PIIND.NS
+PINELABS,Pine Labs Ltd.,Financial Services,INE15B701018,Smallcap 250,PINELABS.NS
+PIRAMALFIN,Piramal Finance Ltd.,Financial Services,INE202B01038,Midcap 150,PIRAMALFIN.NS
+PNB,Punjab National Bank,Financial Services,INE160A01022,Nifty 100,PNB.NS
+PNBHOUSING,PNB Housing Finance Ltd.,Financial Services,INE572E01012,Smallcap 250,PNBHOUSING.NS
+POLICYBZR,PB Fintech Ltd.,Financial Services,INE417T01026,Midcap 150,POLICYBZR.NS
+POLYCAB,Polycab India Ltd.,Capital Goods,INE455K01017,Nifty 100,POLYCAB.NS
+POLYMED,Poly Medicure Ltd.,Healthcare,INE205C01021,Smallcap 250,POLYMED.NS
+POONAWALLA,Poonawalla Fincorp Ltd.,Financial Services,INE511C01022,Smallcap 250,POONAWALLA.NS
+POWERGRID,Power Grid Corporation of India Ltd.,Power,INE752E01010,Nifty 100,POWERGRID.NS
+POWERINDIA,Hitachi Energy India Ltd.,Capital Goods,INE07Y701011,Nifty 100,POWERINDIA.NS
+PPLPHARMA,Piramal Pharma Ltd.,Healthcare,INE0DK501011,Smallcap 250,PPLPHARMA.NS
+PREMIERENE,Premier Energies Ltd.,Capital Goods,INE0BS701011,Midcap 150,PREMIERENE.NS
+PRESTIGE,Prestige Estates Projects Ltd.,Realty,INE811K01011,Midcap 150,PRESTIGE.NS
+PRIVISCL,Privi Speciality Chemicals Ltd.,Chemicals,INE959A01019,Smallcap 250,PRIVISCL.NS
+PTCIL,PTC Industries Ltd.,Capital Goods,INE596F01018,Smallcap 250,PTCIL.NS
+PVRINOX,PVR INOX Ltd.,Media Entertainment & Publication,INE191H01014,Smallcap 250,PVRINOX.NS
+PWL,Physicswallah Ltd.,Consumer Services,INE0LP301011,Smallcap 250,PWL.NS
+RADICO,Radico Khaitan Ltd,Fast Moving Consumer Goods,INE944F01028,Midcap 150,RADICO.NS
+RAILTEL,Railtel Corporation Of India Ltd.,Telecommunication,INE0DD101019,Smallcap 250,RAILTEL.NS
+RAINBOW,Rainbow Childrens Medicare Ltd.,Healthcare,INE961O01016,Smallcap 250,RAINBOW.NS
+RAMCOCEM,The Ramco Cements Ltd.,Construction Materials,INE331A01037,Smallcap 250,RAMCOCEM.NS
+RBLBANK,RBL Bank Ltd.,Financial Services,INE976G01028,Smallcap 250,RBLBANK.NS
+RECLTD,REC Ltd.,Financial Services,INE020B01018,Midcap 150,RECLTD.NS
+REDINGTON,Redington Ltd.,Services,INE891D01026,Smallcap 250,REDINGTON.NS
+RELIANCE,Reliance Industries Ltd.,Oil Gas & Consumable Fuels,INE002A01018,Nifty 100,RELIANCE.NS
+RHIM,RHI MAGNESITA INDIA LTD.,Capital Goods,INE743M01012,Smallcap 250,RHIM.NS
+RITES,RITES Ltd.,Construction,INE320J01015,Smallcap 250,RITES.NS
+RKFORGE,Ramkrishna Forgings Ltd.,Automobile and Auto Components,INE399G01023,Smallcap 250,RKFORGE.NS
+RPOWER,Reliance Power Ltd.,Power,INE614G01033,Smallcap 250,RPOWER.NS
+RRKABEL,R R Kabel Ltd.,Capital Goods,INE777K01022,Smallcap 250,RRKABEL.NS
+RUBICON,Rubicon Research Ltd.,Healthcare,INE506V01022,Smallcap 250,RUBICON.NS
+RVNL,Rail Vikas Nigam Ltd.,Construction,INE415G01027,Midcap 150,RVNL.NS
+SAGILITY,Sagility Ltd.,Information Technology,INE0W2G01015,Smallcap 250,SAGILITY.NS
+SAIL,Steel Authority of India Ltd.,Metals & Mining,INE114A01011,Midcap 150,SAIL.NS
+SAILIFE,Sai Life Sciences Ltd.,Healthcare,INE570L01029,Smallcap 250,SAILIFE.NS
+SAMMAANCAP,Sammaan Capital Ltd.,Financial Services,INE148I01020,Smallcap 250,SAMMAANCAP.NS
+SANSERA,Sansera Engineering Ltd.,Automobile and Auto Components,INE953O01021,Smallcap 250,SANSERA.NS
+SARDAEN,Sarda Energy and Minerals Ltd.,Metals & Mining,INE385C01021,Smallcap 250,SARDAEN.NS
+SBICARD,SBI Cards and Payment Services Ltd.,Financial Services,INE018E01016,Midcap 150,SBICARD.NS
+SBILIFE,SBI Life Insurance Company Ltd.,Financial Services,INE123W01016,Nifty 100,SBILIFE.NS
+SBIN,State Bank of India,Financial Services,INE062A01020,Nifty 100,SBIN.NS
+SCHAEFFLER,Schaeffler India Ltd.,Automobile and Auto Components,INE513A01022,Midcap 150,SCHAEFFLER.NS
+SCHNEIDER,Schneider Electric Infrastructure Ltd.,Capital Goods,INE839M01018,Smallcap 250,SCHNEIDER.NS
+SCI,Shipping Corporation of India Ltd.,Services,INE109A01011,Smallcap 250,SCI.NS
+SHREECEM,Shree Cement Ltd.,Construction Materials,INE070A01015,Midcap 150,SHREECEM.NS
+SHRIPISTON,SPR Auto Technologies Ltd.,Automobile and Auto Components,INE526E01018,Smallcap 250,SHRIPISTON.NS
+SHRIRAMFIN,Shriram Finance Ltd.,Financial Services,INE721A01047,Nifty 100,SHRIRAMFIN.NS
+SHYAMMETL,Shyam Metalics and Energy Ltd.,Capital Goods,INE810G01011,Smallcap 250,SHYAMMETL.NS
+SIEMENS,Siemens Ltd.,Capital Goods,INE003A01024,Nifty 100,SIEMENS.NS
+SIGNATURE,Signatureglobal (India) Ltd.,Realty,INE903U01023,Smallcap 250,SIGNATURE.NS
+SJVN,SJVN Ltd.,Power,INE002L01015,Smallcap 250,SJVN.NS
+SOBHA,Sobha Ltd.,Realty,INE671H01015,Smallcap 250,SOBHA.NS
+SOLARINDS,Solar Industries India Ltd.,Chemicals,INE343H01029,Nifty 100,SOLARINDS.NS
+SONACOMS,Sona BLW Precision Forgings Ltd.,Automobile and Auto Components,INE073K01018,Smallcap 250,SONACOMS.NS
+SRF,SRF Ltd.,Chemicals,INE647A01010,Midcap 150,SRF.NS
+STARHEALTH,Star Health and Allied Insurance Company Ltd.,Financial Services,INE575P01011,Smallcap 250,STARHEALTH.NS
+STLTECH,Sterlite Technologies Ltd.,Telecommunication,INE089C01029,Smallcap 250,STLTECH.NS
+SUMICHEM,Sumitomo Chemical India Ltd.,Chemicals,INE258G01013,Smallcap 250,SUMICHEM.NS
+SUNDARMFIN,Sundaram Finance Ltd.,Financial Services,INE660A01013,Midcap 150,SUNDARMFIN.NS
+SUNPHARMA,Sun Pharmaceutical Industries Ltd.,Healthcare,INE044A01036,Nifty 100,SUNPHARMA.NS
+SUNTV,Sun TV Network Ltd.,Media Entertainment & Publication,INE424H01027,Smallcap 250,SUNTV.NS
+SUPREMEIND,Supreme Industries Ltd.,Capital Goods,INE195A01028,Midcap 150,SUPREMEIND.NS
+SUZLON,Suzlon Energy Ltd.,Capital Goods,INE040H01021,Midcap 150,SUZLON.NS
+SWANCORP,Swan Corp Ltd.,Chemicals,INE665A01038,Smallcap 250,SWANCORP.NS
+SWIGGY,Swiggy Ltd.,Consumer Services,INE00H001014,Midcap 150,SWIGGY.NS
+SYNGENE,Syngene International Ltd.,Healthcare,INE398R01022,Smallcap 250,SYNGENE.NS
+SYRMA,Syrma SGS Technology Ltd.,Capital Goods,INE0DYJ01015,Smallcap 250,SYRMA.NS
+TARIL,Transformers And Rectifiers (India) Ltd.,Capital Goods,INE763I01026,Smallcap 250,TARIL.NS
+TATACAP,Tata Capital Ltd.,Financial Services,INE976I01016,Nifty 100,TATACAP.NS
+TATACHEM,Tata Chemicals Ltd.,Chemicals,INE092A01019,Smallcap 250,TATACHEM.NS
+TATACOMM,Tata Communications Ltd.,Telecommunication,INE151A01013,Midcap 150,TATACOMM.NS
+TATACONSUM,Tata Consumer Products Ltd.,Fast Moving Consumer Goods,INE192A01025,Nifty 100,TATACONSUM.NS
+TATAELXSI,Tata Elxsi Ltd.,Information Technology,INE670A01012,Smallcap 250,TATAELXSI.NS
+TATAINVEST,Tata Investment Corporation Ltd.,Financial Services,INE672A01026,Midcap 150,TATAINVEST.NS
+TATAPOWER,Tata Power Co. Ltd.,Power,INE245A01021,Nifty 100,TATAPOWER.NS
+TATASTEEL,Tata Steel Ltd.,Metals & Mining,INE081A01020,Nifty 100,TATASTEEL.NS
+TATATECH,Tata Technologies Ltd.,Information Technology,INE142M01025,Smallcap 250,TATATECH.NS
+TBOTEK,TBO Tek Ltd.,Consumer Services,INE673O01025,Smallcap 250,TBOTEK.NS
+TCS,Tata Consultancy Services Ltd.,Information Technology,INE467B01029,Nifty 100,TCS.NS
+TDPOWERSYS,TD Power Systems Ltd.,Capital Goods,INE419M01035,Smallcap 250,TDPOWERSYS.NS
+TECHM,Tech Mahindra Ltd.,Information Technology,INE669C01036,Nifty 100,TECHM.NS
+TECHNOE,Techno Electric & Engineering Company Ltd.,Construction,INE285K01026,Smallcap 250,TECHNOE.NS
+TEGA,Tega Industries Ltd.,Capital Goods,INE011K01018,Smallcap 250,TEGA.NS
+TEJASNET,Tejas Networks Ltd.,Telecommunication,INE010J01012,Smallcap 250,TEJASNET.NS
+TENNIND,Tenneco Clean Air India Ltd.,Automobile and Auto Components,INE19RI01016,Smallcap 250,TENNIND.NS
+THANGAMAYL,Thangamayil Jewellery Ltd.,Consumer Durables,INE085J01014,Smallcap 250,THANGAMAYL.NS
+THERMAX,Thermax Ltd.,Capital Goods,INE152A01029,Midcap 150,THERMAX.NS
+TIINDIA,Tube Investments of India Ltd.,Automobile and Auto Components,INE974X01010,Midcap 150,TIINDIA.NS
+TIMKEN,Timken India Ltd.,Capital Goods,INE325A01013,Smallcap 250,TIMKEN.NS
+TITAGARH,Titagarh Rail Systems Ltd.,Capital Goods,INE615H01020,Smallcap 250,TITAGARH.NS
+TITAN,Titan Company Ltd.,Consumer Durables,INE280A01028,Nifty 100,TITAN.NS
+TMCV,Tata Motors Ltd.,Capital Goods,INE1TAE01010,Nifty 100,TMCV.NS
+TMPV,Tata Motors Passenger Vehicles Ltd.,Automobile and Auto Components,INE155A01022,Nifty 100,TMPV.NS
+TORNTPHARM,Torrent Pharmaceuticals Ltd.,Healthcare,INE685A01028,Nifty 100,TORNTPHARM.NS
+TORNTPOWER,Torrent Power Ltd.,Power,INE813H01021,Midcap 150,TORNTPOWER.NS
+TRENT,Trent Ltd.,Consumer Services,INE849A01020,Nifty 100,TRENT.NS
+TRIDENT,Trident Ltd.,Textiles,INE064C01022,Smallcap 250,TRIDENT.NS
+TRITURBINE,Triveni Turbine Ltd.,Capital Goods,INE152M01016,Smallcap 250,TRITURBINE.NS
+TTML,Tata Teleservices (Maharashtra) Ltd.,Telecommunication,INE517B01013,Smallcap 250,TTML.NS
+TVSMOTOR,TVS Motor Company Ltd.,Automobile and Auto Components,INE494B01023,Nifty 100,TVSMOTOR.NS
+UBL,United Breweries Ltd.,Fast Moving Consumer Goods,INE686F01025,Midcap 150,UBL.NS
+UCOBANK,UCO Bank,Financial Services,INE691A01018,Smallcap 250,UCOBANK.NS
+ULTRACEMCO,UltraTech Cement Ltd.,Construction Materials,INE481G01011,Nifty 100,ULTRACEMCO.NS
+UNIONBANK,Union Bank of India,Financial Services,INE692A01016,Nifty 100,UNIONBANK.NS
+UNITDSPR,United Spirits Ltd.,Fast Moving Consumer Goods,INE854D01024,Midcap 150,UNITDSPR.NS
+UNOMINDA,UNO Minda Ltd.,Automobile and Auto Components,INE405E01023,Midcap 150,UNOMINDA.NS
+UPL,UPL Ltd.,Chemicals,INE628A01036,Midcap 150,UPL.NS
+URBANCO,Urban Company Ltd.,Consumer Services,INE0CAZ01013,Smallcap 250,URBANCO.NS
+USHAMART,Usha Martin Ltd.,Capital Goods,INE228A01035,Smallcap 250,USHAMART.NS
+UTIAMC,UTI Asset Management Company Ltd.,Financial Services,INE094J01016,Smallcap 250,UTIAMC.NS
+VAML,Vedanta Aluminium Metal Ltd.,Metals & Mining,INE1CDF01017,Nifty 100,VAML.NS
+VBL,Varun Beverages Ltd.,Fast Moving Consumer Goods,INE200M01039,Nifty 100,VBL.NS
+VEDL,Vedanta Ltd.,Metals & Mining,INE205A01025,Nifty 100,VEDL.NS
+VEDPOWER,Vedanta Power Ltd.,Power,INE694L01019,Smallcap 250,VEDPOWER.NS
+VIJAYA,Vijaya Diagnostic Centre Ltd.,Healthcare,INE043W01024,Smallcap 250,VIJAYA.NS
+VISL,Vedanta Iron and Steel Ltd.,Metals & Mining,INE1CLE01013,Smallcap 250,VISL.NS
+VMM,Vishal Mega Mart Ltd.,Consumer Services,INE01EA01019,Midcap 150,VMM.NS
+VOGL,Vedanta Oil and Gas Ltd.,Oil Gas & Consumable Fuels,INE704J01044,Smallcap 250,VOGL.NS
+VOLTAS,Voltas Ltd.,Consumer Durables,INE226A01021,Midcap 150,VOLTAS.NS
+VTL,Vardhman Textiles Ltd.,Textiles,INE825A01020,Smallcap 250,VTL.NS
+WAAREEENER,Waaree Energies Ltd.,Capital Goods,INE377N01017,Midcap 150,WAAREEENER.NS
+WELCORP,Welspun Corp Ltd.,Capital Goods,INE191B01025,Smallcap 250,WELCORP.NS
+WELSPUNLIV,Welspun Living Ltd.,Textiles,INE192B01031,Smallcap 250,WELSPUNLIV.NS
+WHIRLPOOL,Whirlpool of India Ltd.,Consumer Durables,INE716A01013,Smallcap 250,WHIRLPOOL.NS
+WIPRO,Wipro Ltd.,Information Technology,INE075A01022,Nifty 100,WIPRO.NS
+WOCKPHARMA,Wockhardt Ltd.,Healthcare,INE049B01025,Smallcap 250,WOCKPHARMA.NS
+YESBANK,Yes Bank Ltd.,Financial Services,INE528G01035,Midcap 150,YESBANK.NS
+ZEEL,Zee Entertainment Enterprises Ltd.,Media Entertainment & Publication,INE256A01028,Smallcap 250,ZEEL.NS
+ZENSARTECH,Zensar Technolgies Ltd.,Information Technology,INE520A01027,Smallcap 250,ZENSARTECH.NS
+ZENTEC,Zen Technologies Ltd.,Capital Goods,INE251B01027,Smallcap 250,ZENTEC.NS
+ZFCVINDIA,ZF Commercial Vehicle Control Systems India Ltd.,Automobile and Auto Components,INE342J01019,Smallcap 250,ZFCVINDIA.NS
+ZYDUSLIFE,Zydus Lifesciences Ltd.,Healthcare,INE010B01027,Nifty 100,ZYDUSLIFE.NS
+ZYDUSWELL,Zydus Wellness Ltd.,Fast Moving Consumer Goods,INE768C01028,Smallcap 250,ZYDUSWELL.NS

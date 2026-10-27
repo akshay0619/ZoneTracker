@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "zonetracker"
+version = "0.1.0"
+description = "Demand/supply zone scanner for NSE stocks and indices (Python port of the Zone Indicator Pine script)"
+requires-python = ">=3.12"
+dependencies = ["pandas", "numpy", "yfinance", "requests", "streamlit"]
+
+[tool.setuptools.packages.find]
+include = ["zonetracker*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,13 @@
+# Python / tooling
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+
+# Regenerated every run; the dashboard only needs latest.csv
+data/results/scan_*.csv
+data/universe/ticker_check.csv
+
+# Local editor / agent files
+.claude/

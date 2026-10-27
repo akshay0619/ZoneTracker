@@ -1,0 +1,257 @@
+kind,symbol,name,group,exchange,industry,tf,signal,side,pattern,grade,score,proximal,distal,close,distance_pct,zone_start,as_of,freshness,strength,time_at_zone,move_from_zone,reversal_break,reward_risk,coinciding
+Stock,AADHARHFC,Aadhar Housing Finance Ltd.,Smallcap 250,NSE,Financial Services,M,Reacting,Demand,RBR,C,4.0,467.05,405.0,435.65,-6.72,2025-04-01,2026-10-27,0.0,1.0,1.0,0.0,0.0,2.0,0.0
+Stock,AARTIIND,Aarti Industries Ltd.,Smallcap 250,NSE,Chemicals,H,Reacting,Demand,RBR,C,6.0,465.7,334.0,435.7,-6.44,2019-07-01,2026-10-27,0.0,1.0,2.0,2.0,0.0,0.0,1.0
+Stock,AAVAS,Aavas Financiers Ltd.,Smallcap 250,NSE,Financial Services,W,Reacting,Demand,DBR,A+,13.0,1138.6,1060.4,1137.5,-0.1,2026-03-23,2026-10-27,0.0,2.0,2.0,2.0,2.0,3.0,2.0
+Stock,AAVAS,Aavas Financiers Ltd.,Smallcap 250,NSE,Financial Services,Q,Reacting,Demand,DBR,C,5.0,1434.55,849.05,1137.5,-20.71,2020-01-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,0.0,2.0
+Stock,AAVAS,Aavas Financiers Ltd.,Smallcap 250,NSE,Financial Services,Y,Reacting,Demand,RBR,C,5.0,1981.1,849.05,1137.5,-42.58,2020-01-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,ABB,ABB India Ltd.,Nifty 100,NSE,Capital Goods,D,Reacting,Supply,DBD,B,8.0,6464.5,6593.5,6550.0,-1.32,2026-10-22,2026-10-27,0.0,1.0,2.0,0.0,2.0,3.0,0.0
+Stock,ACC,ACC Ltd.,Smallcap 250,NSE,Construction Materials,Y,Reacting,Demand,RBR,C,4.0,1763.95,895.15,1147.5,-34.95,2018-01-01,2026-10-27,0.0,1.0,1.0,0.0,0.0,2.0,0.0
+Stock,ADANIGREEN,Adani Green Energy Ltd.,Nifty 100,NSE,Power,D,Approaching,Supply,DBD,A,12.0,1295.2,1319.2,1289.0,0.48,2026-10-16,2026-10-27,2.0,1.0,2.0,2.0,2.0,3.0,0.0
+Stock,ADANIPORTS,Adani Ports and Special Economic Zone Ltd.,Nifty 100,NSE,Services,D,Approaching,Supply,RBD,A+,13.0,1793.5,1822.0,1754.5,2.17,2026-09-29,2026-10-27,2.0,2.0,2.0,2.0,0.0,3.0,2.0
+Stock,AEGISVOPAK,Aegis Vopak Terminals Ltd.,Smallcap 250,NSE,Oil Gas & Consumable Fuels,W,Reacting,Demand,RBR,B,9.0,239.9,219.76,235.1,-2.0,2026-06-15,2026-10-27,2.0,1.0,2.0,2.0,2.0,0.0,0.0
+Stock,AIIL,Authum Investment & Infrastructure Ltd.,Midcap 150,NSE,Financial Services,D,Approaching,Demand,RBR,A,11.5,473.5,455.9,485.05,2.44,2026-06-10,2026-10-27,2.0,1.0,2.0,2.0,2.0,1.5,1.0
+Stock,ALKEM,Alkem Laboratories Ltd.,Midcap 150,NSE,Healthcare,D,Approaching,Supply,DBD,A,12.0,5201.0,5288.5,5078.0,2.36,2026-10-13,2026-10-27,2.0,1.0,2.0,2.0,2.0,3.0,0.0
+Stock,ALKEM,Alkem Laboratories Ltd.,Midcap 150,NSE,Healthcare,Q,Reacting,Demand,RBR,C,5.0,5209.95,4407.05,5078.0,-2.53,2024-01-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,AMBER,Amber Enterprises India Ltd.,Smallcap 250,NSE,Consumer Durables,M,Reacting,Demand,DBR,C,6.0,6405.0,5400.5,6030.0,-5.85,2026-01-01,2026-10-27,0.0,2.0,2.0,0.0,0.0,2.0,0.0
+Stock,AMBUJACEM,Ambuja Cements Ltd.,Nifty 100,NSE,Construction Materials,H,Reacting,Demand,RBR,C,5.0,378.75,274.0,348.8,-7.91,2021-07-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,ANURAS,Anupam Rasayan India Ltd.,Smallcap 250,NSE,Chemicals,Q,Reacting,Demand,RBR,C,7.0,1136.0,1045.2,1129.6,-0.56,2025-07-01,2026-10-27,0.0,1.0,2.0,0.0,2.0,2.0,0.0
+Stock,APOLLOTYRE,Apollo Tyres Ltd.,Smallcap 250,NSE,Automobile and Auto Components,Q,Reacting,Demand,RBR,B,8.0,397.0,365.0,383.3,-3.45,2023-07-01,2026-10-27,0.0,1.0,2.0,2.0,0.0,2.0,1.0
+Stock,APOLLOTYRE,Apollo Tyres Ltd.,Smallcap 250,NSE,Automobile and Auto Components,H,Reacting,Demand,RBR,C,5.0,454.05,365.0,383.3,-15.58,2023-07-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,ASHOKLEY,Ashok Leyland Ltd.,Midcap 150,NSE,Capital Goods,M,Reacting,Demand,RBR,B,8.0,143.0,134.21,142.0,-0.7,2025-10-01,2026-10-27,0.0,2.0,2.0,2.0,0.0,2.0,0.0
+Stock,ATGL,Adani Total Gas Ltd.,Midcap 150,NSE,Oil Gas & Consumable Fuels,Q,Reacting,Demand,DBR,B,10.0,567.35,462.8,537.75,-5.22,2026-01-01,2026-10-27,2.0,2.0,2.0,0.0,0.0,3.0,1.0
+Stock,ATGL,Adani Total Gas Ltd.,Midcap 150,NSE,Oil Gas & Consumable Fuels,H,Reacting,Demand,RBR,C,7.0,1019.85,341.0,537.75,-47.27,2021-01-01,2026-10-27,0.0,1.0,2.0,2.0,0.0,2.0,0.0
+Stock,AUBANK,AU Small Finance Bank Ltd.,Midcap 150,NSE,Financial Services,D,Reacting,Demand,RBR,B,8.0,883.55,831.65,848.0,-4.02,2026-04-02,2026-10-27,0.0,1.0,2.0,2.0,2.0,0.0,1.0
+Stock,AVANTIFEED,Avanti Feeds Ltd.,Smallcap 250,NSE,Fast Moving Consumer Goods,M,Reacting,Demand,RBR,B,8.0,715.0,572.0,671.45,-6.09,2025-01-01,2026-10-27,0.0,1.0,2.0,0.0,2.0,2.0,1.0
+Stock,AVANTIFEED,Avanti Feeds Ltd.,Smallcap 250,NSE,Fast Moving Consumer Goods,Q,Reacting,Demand,RBR,C,5.0,681.75,541.5,671.45,-1.51,2024-07-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,AXISBANK,Axis Bank Ltd.,Nifty 100,NSE,Financial Services,D,Reacting,Demand,RBR,B,9.0,1212.1,1190.5,1205.7,-0.53,2026-09-28,2026-10-27,0.0,1.0,2.0,0.0,2.0,3.0,1.0
+Stock,BAJAJ-AUTO,Bajaj Auto Ltd.,Nifty 100,NSE,Automobile and Auto Components,M,Reacting,Demand,RBR,C,7.0,10460.0,9501.0,10390.0,-0.67,2026-05-01,2026-10-27,2.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,BAJAJFINSV,Bajaj Finserv Ltd.,Nifty 100,NSE,Financial Services,M,Reacting,Demand,DBR,C,4.0,1794.9,1597.0,1677.0,-6.57,2026-04-01,2026-10-27,0.0,2.0,1.0,0.0,0.0,0.0,1.0
+Stock,BAJAJFINSV,Bajaj Finserv Ltd.,Nifty 100,NSE,Financial Services,Q,Reacting,Demand,RBR,C,6.5,1685.8,1419.05,1677.0,-0.52,2024-01-01,2026-10-27,0.0,1.0,2.0,0.0,2.0,1.5,0.0
+Stock,BAJFINANCE,Bajaj Finance Ltd.,Nifty 100,NSE,Financial Services,M,Reacting,Demand,RBR,B,9.0,938.1,860.45,912.0,-2.78,2026-05-01,2026-10-27,2.0,1.0,2.0,0.0,2.0,2.0,0.0
+Stock,BANDHANBNK,Bandhan Bank Ltd.,Smallcap 250,NSE,Financial Services,D,Reacting,Demand,RBR,B,9.0,152.58,140.7,151.91,-0.44,2026-04-02,2026-10-27,0.0,2.0,1.0,2.0,2.0,0.0,2.0
+Stock,BANDHANBNK,Bandhan Bank Ltd.,Smallcap 250,NSE,Financial Services,M,Reacting,Demand,DBR,C,7.0,154.65,134.25,151.91,-1.77,2025-12-01,2026-10-27,0.0,2.0,2.0,0.0,0.0,3.0,0.0
+Stock,BANKBARODA,Bank of Baroda,Nifty 100,NSE,Financial Services,H,Reacting,Demand,DBR,C,6.0,248.78,190.7,233.93,-5.97,2025-01-01,2026-10-27,0.0,2.0,2.0,0.0,0.0,2.0,0.0
+Stock,BDL,Bharat Dynamics Ltd.,Midcap 150,NSE,Capital Goods,Q,Reacting,Demand,DBR,C,6.0,1281.4,890.0,1006.0,-21.49,2024-10-01,2026-10-27,0.0,2.0,2.0,0.0,0.0,2.0,0.0
+Stock,BEML,BEML Ltd.,Smallcap 250,NSE,Capital Goods,M,Reacting,Supply,DBD,C,5.0,1919.7,2275.75,1998.6,-4.11,2025-08-01,2026-10-27,0.0,1.0,1.0,0.0,0.0,3.0,0.0
+Stock,BHARTIARTL,Bharti Airtel Ltd.,Nifty 100,NSE,Telecommunication,W,Reacting,Supply,DBD,B,8.0,1977.4,2038.5,1978.8,-0.07,2026-02-16,2026-10-27,0.0,1.0,2.0,0.0,2.0,3.0,0.0
+Stock,BHARTIHEXA,Bharti Hexacom Ltd.,Midcap 150,NSE,Telecommunication,W,Reacting,Supply,DBD,B,10.0,1663.6,1713.2,1665.9,-0.14,2026-02-16,2026-10-27,0.0,1.0,2.0,2.0,2.0,3.0,0.0
+Stock,BSE,BSE Ltd.,Nifty 100,NSE,Financial Services,D,Approaching,Supply,DBD,A,12.0,3502.8,3539.4,3441.1,1.76,2026-08-13,2026-10-27,2.0,1.0,2.0,2.0,2.0,3.0,0.0
+Stock,CAMS,Computer Age Management Services Ltd.,Smallcap 250,NSE,Financial Services,D,Reacting,Supply,DBD,B,9.0,670.65,695.4,677.4,-1.01,2026-10-21,2026-10-27,0.0,1.0,2.0,0.0,2.0,3.0,1.0
+Stock,CAMS,Computer Age Management Services Ltd.,Smallcap 250,NSE,Financial Services,M,Reacting,Demand,RBR,C,6.5,722.55,606.01,677.4,-6.25,2024-05-01,2026-10-27,0.0,1.0,2.0,0.0,2.0,1.5,0.0
+Stock,CANBK,Canara Bank,Nifty 100,NSE,Financial Services,Q,Reacting,Demand,RBR,B,8.0,123.71,103.55,118.01,-4.61,2025-07-01,2026-10-27,0.0,1.0,2.0,0.0,2.0,2.0,1.0
+Stock,CANHLIFE,Canara HSBC Life Insurance Company Ltd.,Smallcap 250,NSE,Financial Services,M,Reacting,Demand,RBR,B,9.0,123.04,114.56,121.82,-0.99,2025-11-01,2026-10-27,2.0,1.0,2.0,2.0,0.0,2.0,0.0
+Stock,CAPLIPOINT,Caplin Point Laboratories Ltd.,Smallcap 250,NSE,Healthcare,D,Approaching,Supply,DBD,A,12.0,2419.8,2460.7,2352.4,2.79,2026-10-12,2026-10-27,2.0,1.0,2.0,2.0,2.0,3.0,0.0
+Stock,CARTRADE,Cartrade Tech Ltd.,Smallcap 250,NSE,Consumer Services,Q,Reacting,Supply,RBD,C,5.5,2450.0,3290.5,2821.2,-15.15,2025-10-01,2026-10-27,0.0,2.0,2.0,0.0,0.0,1.5,0.0
+Stock,CDSL,Central Depository Services (India) Ltd.,Smallcap 250,NSE,Financial Services,M,Reacting,Demand,DBR,C,6.0,1320.0,1047.45,1222.0,-7.42,2025-03-01,2026-10-27,0.0,2.0,2.0,0.0,0.0,2.0,0.0
+Stock,CEATLTD,Ceat Ltd.,Smallcap 250,NSE,Automobile and Auto Components,D,Approaching,Supply,DBD,A,12.0,3203.2,3230.0,3146.2,1.78,2026-10-22,2026-10-27,2.0,1.0,2.0,2.0,2.0,3.0,0.0
+Stock,CENTRALBK,Central Bank of India,Smallcap 250,NSE,Financial Services,H,Reacting,Demand,RBR,B,8.0,32.4,22.25,28.91,-10.77,2023-01-01,2026-10-27,0.0,1.0,2.0,2.0,0.0,2.0,1.0
+Stock,CENTRALBK,Central Bank of India,Smallcap 250,NSE,Financial Services,Y,Reacting,Demand,DBR,C,7.0,32.15,10.1,28.91,-10.08,2020-01-01,2026-10-27,2.0,2.0,1.0,0.0,0.0,2.0,0.0
+Stock,CESC,CESC Ltd.,Smallcap 250,NSE,Power,M,Reacting,Demand,DBR,C,6.5,126.85,109.75,123.45,-2.68,2024-03-01,2026-10-27,0.0,2.0,2.0,0.0,0.0,1.5,1.0
+Stock,CESC,CESC Ltd.,Smallcap 250,NSE,Power,Q,Reacting,Demand,RBR,C,5.0,133.0,109.75,123.45,-7.18,2024-01-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,CHAMBLFERT,Chambal Fertilizers & Chemicals Ltd.,Smallcap 250,NSE,Chemicals,W,Reacting,Demand,DBR,B,9.0,407.9,333.4,358.9,-12.01,2024-06-03,2026-10-27,0.0,1.0,2.0,2.0,2.0,0.0,2.0
+Stock,CHAMBLFERT,Chambal Fertilizers & Chemicals Ltd.,Smallcap 250,NSE,Chemicals,M,Reacting,Demand,RBR,C,7.0,374.9,332.05,358.9,-4.27,2024-01-01,2026-10-27,0.0,1.0,1.0,2.0,0.0,2.0,1.0
+Stock,CHAMBLFERT,Chambal Fertilizers & Chemicals Ltd.,Smallcap 250,NSE,Chemicals,Q,Reacting,Demand,RBR,A,11.0,374.9,332.05,358.9,-4.27,2024-01-01,2026-10-27,2.0,1.0,2.0,2.0,2.0,2.0,0.0
+Stock,CHOLAFIN,Cholamandalam Investment and Finance Company Ltd.,Nifty 100,NSE,Financial Services,Q,Reacting,Demand,RBR,C,4.0,1702.2,1299.4,1469.0,-13.7,2025-04-01,2026-10-27,0.0,1.0,1.0,0.0,0.0,2.0,0.0
+Stock,COALINDIA,Coal India Ltd.,Nifty 100,NSE,Oil Gas & Consumable Fuels,M,Reacting,Demand,RBR,C,6.0,399.0,372.2,398.0,-0.25,2025-10-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,3.0,0.0
+Stock,COFORGE,Coforge Ltd.,Midcap 150,NSE,Information Technology,W,Reacting,Supply,RBD,B,9.0,1972.8,2021.2,1997.0,-1.23,2026-08-31,2026-10-27,0.0,2.0,2.0,2.0,0.0,3.0,0.0
+Stock,COLPAL,Colgate Palmolive (India) Ltd.,Midcap 150,NSE,Fast Moving Consumer Goods,M,Reacting,Demand,RBR,A,11.0,1688.1,1560.0,1603.4,-5.02,2023-05-01,2026-10-27,2.0,1.0,2.0,2.0,2.0,0.0,2.0
+Stock,COLPAL,Colgate Palmolive (India) Ltd.,Midcap 150,NSE,Fast Moving Consumer Goods,H,Reacting,Demand,DBR,B,9.0,1688.1,1375.6,1603.4,-5.02,2022-01-01,2026-10-27,2.0,2.0,1.0,2.0,0.0,2.0,0.0
+Stock,CONCOR,Container Corporation of India Ltd.,Midcap 150,NSE,Services,W,Reacting,Demand,DBR,B,9.0,466.85,403.0,425.15,-8.93,2021-01-18,2026-10-27,0.0,2.0,1.0,2.0,2.0,0.0,2.0
+Stock,CONCORDBIO,Concord Biotech Ltd.,Smallcap 250,NSE,Healthcare,W,Reacting,Supply,DBD,B,9.0,1339.0,1398.7,1375.3,-2.71,2026-10-05,2026-10-27,2.0,1.0,2.0,0.0,2.0,2.0,0.0
+Stock,COROMANDEL,Coromandel International Ltd.,Midcap 150,NSE,Chemicals,Q,Reacting,Demand,RBR,C,5.0,1982.1,1596.0,1738.4,-12.3,2025-01-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,CRISIL,CRISIL Ltd.,Midcap 150,NSE,Financial Services,M,Reacting,Supply,DBD,C,6.5,4321.6,4872.7,4694.0,-8.62,2025-12-01,2026-10-27,0.0,1.0,2.0,0.0,2.0,1.5,0.0
+Stock,CRISIL,CRISIL Ltd.,Midcap 150,NSE,Financial Services,Q,Reacting,Demand,RBR,C,5.0,5075.95,3660.7,4694.0,-7.52,2024-01-01,2026-10-27,0.0,1.0,1.0,0.0,0.0,2.0,1.0
+Stock,CROMPTON,Crompton Greaves Consumer Electricals Ltd.,Smallcap 250,NSE,Consumer Durables,D,Approaching,Supply,DBD,A,11.0,201.39,203.68,196.25,2.55,2026-10-22,2026-10-27,2.0,1.0,2.0,2.0,0.0,3.0,1.0
+Stock,CROMPTON,Crompton Greaves Consumer Electricals Ltd.,Smallcap 250,NSE,Consumer Durables,Y,Reacting,Demand,RBR,C,5.0,275.5,177.3,196.25,-28.77,2018-01-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,CYIENT,Cyient Ltd.,Smallcap 250,NSE,Information Technology,Q,Reacting,Supply,DBD,C,3.5,1117.8,1376.0,1182.3,-5.77,2025-04-01,2026-10-27,0.0,1.0,1.0,0.0,0.0,1.5,0.0
+Stock,DABUR,Dabur India Ltd.,Midcap 150,NSE,Fast Moving Consumer Goods,Q,Approaching,Demand,RBR,B,9.0,351.0,311.95,357.8,1.94,2018-01-01,2026-10-27,2.0,1.0,2.0,2.0,0.0,2.0,0.0
+Stock,DATAPATTNS,Data Patterns (India) Ltd.,Smallcap 250,NSE,Capital Goods,W,Reacting,Supply,DBD,B,10.0,4072.0,4234.9,4119.4,-1.16,2026-10-12,2026-10-27,2.0,1.0,2.0,0.0,2.0,3.0,0.0
+Stock,DELHIVERY,Delhivery Ltd.,Smallcap 250,NSE,Services,M,Reacting,Demand,RBR,C,6.0,382.8,342.85,382.0,-0.21,2025-06-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,3.0,0.0
+Stock,DOMS,DOMS Industries Ltd.,Smallcap 250,NSE,Fast Moving Consumer Goods,M,Reacting,Demand,RBR,C,5.0,2040.2,1696.25,1863.7,-8.65,2024-05-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,EMAMILTD,Emami Ltd.,Smallcap 250,NSE,Fast Moving Consumer Goods,Q,Reacting,Demand,DBR,C,5.0,503.5,353.35,368.9,-26.73,2022-04-01,2026-10-27,0.0,2.0,1.0,0.0,0.0,2.0,0.0
+Stock,EMBASSY,EMBASSY OFFICE PARKS REIT,Midcap 150,NSE,Realty,D,Reacting,Demand,DBR,B,9.0,422.4,416.25,417.33,-1.2,2026-03-30,2026-10-26,0.0,2.0,2.0,2.0,2.0,0.0,1.0
+Stock,ENDURANCE,Endurance Technologies Ltd.,Midcap 150,NSE,Automobile and Auto Components,M,Reacting,Demand,DBR,B,8.0,2330.6,2142.8,2278.3,-2.24,2026-04-01,2026-10-27,2.0,2.0,2.0,0.0,0.0,2.0,0.0
+Stock,FACT,Fertilisers and Chemicals Travancore Ltd.,Midcap 150,NSE,Chemicals,D,Reacting,Demand,DBR,B,8.0,680.65,652.1,679.7,-0.14,2026-03-05,2026-10-27,0.0,2.0,1.0,2.0,2.0,0.0,1.0
+Stock,FINCABLES,Finolex Cables Ltd.,Smallcap 250,NSE,Capital Goods,M,Reacting,Demand,RBR,C,7.0,1170.6,956.2,1164.4,-0.53,2026-06-01,2026-10-27,2.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,FIVESTAR,Five-Star Business Finance Ltd.,Smallcap 250,NSE,Financial Services,D,Reacting,Demand,RBR,B,8.0,428.6,406.8,416.35,-2.86,2026-04-10,2026-10-27,0.0,2.0,2.0,2.0,0.0,0.0,2.0
+Stock,FORTIS,Fortis Healthcare Ltd.,Midcap 150,NSE,Healthcare,Q,Reacting,Demand,RBR,C,5.0,794.5,577.0,736.5,-7.3,2025-01-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,GILLETTE,Gillette India Ltd.,Smallcap 250,NSE,Fast Moving Consumer Goods,W,Reacting,Supply,DBD,B,10.0,7307.0,7564.0,7318.0,-0.15,2026-08-31,2026-10-27,0.0,1.0,2.0,0.0,2.0,3.0,2.0
+Stock,GILLETTE,Gillette India Ltd.,Smallcap 250,NSE,Fast Moving Consumer Goods,M,Reacting,Demand,RBR,B,9.0,7824.7,6710.5,7318.0,-6.48,2024-06-01,2026-10-27,0.0,1.0,2.0,0.0,2.0,2.0,2.0
+Stock,GILLETTE,Gillette India Ltd.,Smallcap 250,NSE,Fast Moving Consumer Goods,Q,Approaching,Supply,DBD,B,8.0,7459.0,8433.5,7318.0,1.89,2026-04-01,2026-10-27,2.0,1.0,2.0,0.0,0.0,3.0,0.0
+Stock,GLAXO,Glaxosmithkline Pharmaceuticals Ltd.,Midcap 150,NSE,Healthcare,H,Reacting,Demand,RBR,C,5.0,2651.0,1921.0,2472.4,-6.74,2024-07-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,GODFRYPHLP,Godfrey Phillips India Ltd.,Midcap 150,NSE,Fast Moving Consumer Goods,H,Reacting,Demand,RBR,B,9.0,1742.57,1316.68,1725.7,-0.97,2024-07-01,2026-10-27,2.0,1.0,2.0,2.0,0.0,2.0,0.0
+Stock,GODREJCP,Godrej Consumer Products Ltd.,Nifty 100,NSE,Fast Moving Consumer Goods,Q,Reacting,Demand,RBR,C,7.0,910.45,793.85,828.8,-8.97,2022-10-01,2026-10-27,0.0,1.0,2.0,2.0,2.0,0.0,0.0
+Stock,GPIL,Godawari Power & Ispat Ltd.,Smallcap 250,NSE,Capital Goods,H,Reacting,Demand,DBR,B,8.0,213.92,131.6,194.25,-9.2,2024-01-01,2026-10-27,2.0,2.0,2.0,0.0,0.0,2.0,0.0
+Stock,GRAPHITE,Graphite India Ltd.,Smallcap 250,NSE,Capital Goods,D,Approaching,Supply,DBD,A+,13.0,768.9,777.5,751.45,2.27,2026-10-16,2026-10-27,2.0,2.0,2.0,2.0,2.0,3.0,0.0
+Stock,GRAVITA,Gravita India Ltd.,Smallcap 250,NSE,Metals & Mining,H,Reacting,Demand,RBR,C,5.0,1476.2,730.0,1340.3,-9.21,2024-01-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,GRSE,Garden Reach Shipbuilders & Engineers Ltd.,Smallcap 250,NSE,Capital Goods,Q,Reacting,Demand,RBR,C,5.0,2127.7,1184.9,1930.9,-9.25,2024-07-01,2026-10-27,0.0,1.0,1.0,0.0,0.0,2.0,1.0
+Stock,GRSE,Garden Reach Shipbuilders & Engineers Ltd.,Smallcap 250,NSE,Capital Goods,H,Reacting,Demand,RBR,C,5.0,2127.7,1184.9,1930.9,-9.25,2024-07-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,HAL,Hindustan Aeronautics Ltd.,Nifty 100,NSE,Capital Goods,D,Approaching,Supply,RBD,A+,13.0,4959.0,5012.0,4855.0,2.1,2026-10-19,2026-10-27,2.0,2.0,2.0,2.0,0.0,3.0,2.0
+Stock,HAVELLS,Havells India Ltd.,Midcap 150,NSE,Consumer Durables,D,Approaching,Demand,DBR,A+,14.0,995.0,977.0,1008.5,1.36,2021-06-29,2026-10-27,2.0,2.0,1.0,2.0,2.0,3.0,2.0
+Stock,HAVELLS,Havells India Ltd.,Midcap 150,NSE,Consumer Durables,M,Reacting,Demand,DBR,B,10.0,1032.0,958.0,1008.5,-2.28,2021-05-01,2026-10-27,0.0,2.0,2.0,2.0,2.0,0.0,2.0
+Stock,HAVELLS,Havells India Ltd.,Midcap 150,NSE,Consumer Durables,Q,Reacting,Demand,RBR,C,4.0,1062.75,904.75,1008.5,-5.1,2021-01-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,0.0,1.0
+Stock,HAVELLS,Havells India Ltd.,Midcap 150,NSE,Consumer Durables,H,Approaching,Demand,RBR,B,9.0,980.2,904.75,1008.5,2.89,2021-01-01,2026-10-27,2.0,1.0,2.0,2.0,0.0,2.0,0.0
+Stock,HCLTECH,HCL Technologies Ltd.,Nifty 100,NSE,Information Technology,M,Reacting,Supply,DBD,C,6.5,1341.6,1474.9,1420.0,-5.84,2026-03-01,2026-10-27,0.0,1.0,2.0,0.0,2.0,1.5,0.0
+Stock,HDFCBANK,HDFC Bank Ltd.,Nifty 100,NSE,Financial Services,D,Reacting,Demand,RBR,A,11.0,682.53,677.62,680.2,-0.34,2022-07-20,2026-10-27,0.0,1.0,2.0,2.0,2.0,3.0,1.0
+Stock,HDFCLIFE,HDFC Life Insurance Company Ltd.,Nifty 100,NSE,Financial Services,M,Approaching,Demand,DBR,A,12.0,499.2,457.8,513.6,2.88,2023-03-01,2026-10-27,2.0,1.0,2.0,2.0,2.0,3.0,0.0
+Stock,HINDALCO,Hindalco Industries Ltd.,Nifty 100,NSE,Metals & Mining,M,Reacting,Demand,RBR,C,7.0,924.7,835.95,891.2,-3.62,2026-02-01,2026-10-27,2.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,HINDUNILVR,Hindustan Unilever Ltd.,Nifty 100,NSE,Fast Moving Consumer Goods,Q,Reacting,Demand,DBR,C,7.0,1989.0,1650.0,1818.0,-8.6,2019-04-01,2026-10-27,0.0,2.0,1.0,0.0,0.0,2.0,2.0
+Stock,HINDUNILVR,Hindustan Unilever Ltd.,Nifty 100,NSE,Fast Moving Consumer Goods,Y,Reacting,Demand,RBR,C,5.0,1923.0,1650.0,1818.0,-5.46,2019-01-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,HINDZINC,Hindustan Zinc Ltd.,Nifty 100,NSE,Metals & Mining,D,Reacting,Demand,DBR,B,9.0,498.1,482.0,492.5,-1.12,2025-12-05,2026-10-27,0.0,2.0,1.0,2.0,2.0,0.0,2.0
+Stock,HINDZINC,Hindustan Zinc Ltd.,Nifty 100,NSE,Metals & Mining,Q,Approaching,Demand,DBR,C,7.0,482.45,378.15,492.5,2.08,2025-01-01,2026-10-27,2.0,2.0,1.0,0.0,0.0,2.0,0.0
+Stock,ICICIBANK,ICICI Bank Ltd.,Nifty 100,NSE,Financial Services,D,Approaching,Supply,DBD,A,12.0,1427.5,1434.4,1386.9,2.84,2026-09-07,2026-10-27,2.0,1.0,2.0,2.0,2.0,3.0,0.0
+Stock,ICICIGI,ICICI Lombard General Insurance Company Ltd.,Midcap 150,NSE,Financial Services,D,Approaching,Demand,DBR,A+,14.0,1544.0,1498.2,1576.2,2.09,2026-09-28,2026-10-27,2.0,2.0,2.0,2.0,2.0,3.0,1.0
+Stock,ICICIPRULI,ICICI Prudential Life Insurance Company Ltd.,Midcap 150,NSE,Financial Services,Q,Reacting,Demand,DBR,B,10.0,451.3,380.7,413.35,-8.41,2023-01-01,2026-10-26,0.0,2.0,2.0,2.0,2.0,2.0,0.0
+Stock,IGL,Indraprastha Gas Ltd.,Smallcap 250,NSE,Oil Gas & Consumable Fuels,H,Reacting,Demand,DBR,C,6.0,157.32,107.6,139.52,-11.32,2018-07-01,2026-10-27,0.0,2.0,2.0,0.0,0.0,2.0,0.0
+Stock,INDHOTEL,Indian Hotels Co. Ltd.,Midcap 150,NSE,Consumer Services,D,Reacting,Supply,RBD,A,11.0,801.8,821.65,812.85,-1.38,2025-05-05,2026-10-27,0.0,2.0,2.0,2.0,2.0,3.0,0.0
+Stock,INDIANB,Indian Bank,Midcap 150,NSE,Financial Services,M,Reacting,Demand,RBR,C,5.0,875.0,764.05,840.0,-4.0,2025-11-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,INOXINDIA,INOX India Ltd.,Smallcap 250,NSE,Capital Goods,M,Reacting,Demand,RBR,C,5.0,1961.1,1788.4,1914.4,-2.38,2026-07-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,IRB,IRB Infrastructure Developers Ltd.,Smallcap 250,NSE,Construction,W,Reacting,Demand,DBR,A,11.0,17.45,15.52,15.8,-9.46,2023-10-23,2026-10-27,0.0,2.0,2.0,2.0,0.0,3.0,2.0
+Stock,IRB,IRB Infrastructure Developers Ltd.,Smallcap 250,NSE,Construction,M,Reacting,Demand,RBR,B,8.0,16.75,13.98,15.8,-5.67,2023-09-01,2026-10-27,0.0,1.0,2.0,2.0,0.0,2.0,1.0
+Stock,IRB,IRB Infrastructure Developers Ltd.,Smallcap 250,NSE,Construction,Q,Reacting,Demand,RBR,B,8.0,15.8,11.25,15.8,-0.0,2023-01-01,2026-10-27,2.0,1.0,1.0,2.0,0.0,2.0,0.0
+Stock,IRFC,Indian Railway Finance Corporation Ltd.,Nifty 100,NSE,Financial Services,M,Reacting,Demand,RBR,C,7.0,76.85,65.75,74.56,-2.98,2023-10-01,2026-10-27,2.0,1.0,2.0,2.0,0.0,0.0,0.0
+Stock,ITC,ITC Ltd.,Nifty 100,NSE,Fast Moving Consumer Goods,M,Reacting,Demand,RBR,C,7.0,263.36,239.57,260.0,-1.27,2022-04-01,2026-10-27,0.0,1.0,1.0,2.0,2.0,0.0,1.0
+Stock,ITI,ITI Ltd.,Smallcap 250,NSE,Telecommunication,M,Reacting,Demand,DBR,B,9.0,286.63,210.0,217.56,-24.1,2024-10-01,2026-10-27,0.0,2.0,2.0,0.0,2.0,2.0,1.0
+Stock,ITI,ITI Ltd.,Smallcap 250,NSE,Telecommunication,Q,Reacting,Demand,RBR,C,4.0,310.2,210.0,217.56,-29.86,2024-01-01,2026-10-27,0.0,1.0,1.0,0.0,0.0,2.0,0.0
+Stock,JBMA,JBM Auto Ltd.,Smallcap 250,NSE,Automobile and Auto Components,D,Reacting,Demand,DBR,A,11.0,492.2,477.0,483.85,-1.7,2026-03-16,2026-10-27,0.0,2.0,2.0,2.0,2.0,3.0,0.0
+Stock,JINDALSAW,Jindal Saw Ltd.,Smallcap 250,NSE,Capital Goods,M,Reacting,Demand,RBR,C,7.0,261.49,221.7,244.85,-6.36,2026-06-01,2026-10-27,2.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,JIOFIN,Jio Financial Services Ltd.,Nifty 100,NSE,Financial Services,M,Reacting,Demand,DBR,C,5.5,227.51,198.65,207.24,-8.91,2025-03-01,2026-10-27,0.0,2.0,2.0,0.0,0.0,1.5,0.0
+Stock,JKTYRE,JK Tyre & Industries Ltd.,Smallcap 250,NSE,Automobile and Auto Components,M,Reacting,Demand,DBR,B,8.0,310.4,243.0,303.65,-2.17,2025-03-01,2026-10-27,2.0,2.0,2.0,2.0,0.0,0.0,0.0
+Stock,JPPOWER,Jaiprakash Power Ventures Ltd.,Smallcap 250,NSE,Power,M,Reacting,Demand,RBR,B,8.0,13.95,12.25,13.19,-5.45,2023-12-01,2026-10-27,0.0,1.0,2.0,2.0,0.0,3.0,0.0
+Stock,JSL,Jindal Stainless Ltd.,Midcap 150,NSE,Metals & Mining,W,Reacting,Supply,DBD,B,8.5,709.05,759.6,709.8,-0.11,2026-10-05,2026-10-27,2.0,1.0,2.0,0.0,2.0,1.5,0.0
+Stock,JSWSTEEL,JSW Steel Ltd.,Nifty 100,NSE,Metals & Mining,D,Approaching,Supply,DBD,A+,13.0,1277.0,1288.6,1252.7,1.9,2026-09-25,2026-10-27,2.0,1.0,2.0,2.0,2.0,3.0,1.0
+Stock,KEI,KEI Industries Ltd.,Midcap 150,NSE,Capital Goods,Q,Reacting,Demand,RBR,C,5.0,4489.4,3601.1,3870.5,-13.79,2025-07-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,KPITTECH,KPIT Technologies Ltd.,Smallcap 250,NSE,Information Technology,H,Reacting,Demand,RBR,B,8.0,704.25,440.4,531.9,-24.47,2022-01-01,2026-10-27,0.0,1.0,2.0,2.0,0.0,2.0,1.0
+Stock,KPITTECH,KPIT Technologies Ltd.,Smallcap 250,NSE,Information Technology,Y,Reacting,Demand,RBR,B,9.0,704.25,440.4,531.9,-24.47,2022-01-01,2026-10-27,2.0,1.0,2.0,2.0,0.0,2.0,0.0
+Stock,LALPATHLAB,Dr. Lal Path Labs Ltd.,Smallcap 250,NSE,Healthcare,Q,Reacting,Supply,RBD,C,4.0,1644.97,2122.75,1901.8,-15.61,2021-07-01,2026-10-27,0.0,2.0,2.0,0.0,0.0,0.0,0.0
+Stock,LLOYDSME,Lloyds Metals And Energy Ltd.,Midcap 150,NSE,Metals & Mining,M,Reacting,Demand,RBR,C,5.0,1810.4,1636.1,1773.6,-2.03,2026-05-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,LODHA,Lodha Developers Ltd.,Midcap 150,NSE,Realty,D,Reacting,Supply,DBD,B,8.0,1005.0,1015.0,1010.4,-0.54,2026-10-22,2026-10-27,0.0,1.0,2.0,2.0,0.0,3.0,0.0
+Stock,LTM,LTM Ltd.,Nifty 100,NSE,Information Technology,Q,Reacting,Demand,RBR,B,8.0,4082.0,3525.0,4059.7,-0.55,2021-01-01,2026-10-27,0.0,1.0,2.0,2.0,0.0,2.0,1.0
+Stock,LTM,LTM Ltd.,Nifty 100,NSE,Information Technology,H,Reacting,Demand,RBR,C,7.0,4071.3,3525.0,4059.7,-0.28,2021-01-01,2026-10-27,0.0,1.0,2.0,2.0,0.0,2.0,0.0
+Stock,M&MFIN,Mahindra & Mahindra Financial Services Ltd.,Midcap 150,NSE,Financial Services,Q,Reacting,Demand,DBR,B,8.0,283.0,236.24,260.85,-7.83,2025-01-01,2026-10-27,0.0,2.0,1.0,0.0,2.0,2.0,1.0
+Stock,M&MFIN,Mahindra & Mahindra Financial Services Ltd.,Midcap 150,NSE,Financial Services,H,Reacting,Demand,DBR,C,5.0,300.9,236.24,260.85,-13.31,2024-01-01,2026-10-27,0.0,2.0,1.0,0.0,0.0,2.0,0.0
+Stock,MANAPPURAM,Manappuram Finance Ltd.,Smallcap 250,NSE,Financial Services,Q,Reacting,Demand,RBR,C,4.0,310.05,245.15,286.45,-7.61,2025-07-01,2026-10-27,0.0,1.0,1.0,0.0,0.0,2.0,0.0
+Stock,MANKIND,Mankind Pharma Ltd.,Midcap 150,NSE,Healthcare,D,Approaching,Supply,DBD,A,12.0,2575.9,2613.5,2502.5,2.85,2026-07-30,2026-10-27,2.0,1.0,2.0,2.0,2.0,3.0,0.0
+Stock,MANKIND,Mankind Pharma Ltd.,Midcap 150,NSE,Healthcare,W,Reacting,Supply,RBD,B,10.0,2474.9,2559.0,2502.5,-1.12,2026-09-28,2026-10-27,2.0,1.0,2.0,0.0,2.0,3.0,0.0
+Stock,MARICO,Marico Ltd.,Midcap 150,NSE,Fast Moving Consumer Goods,Q,Approaching,Demand,RBR,B,8.0,755.0,708.3,776.15,2.8,2026-01-01,2026-10-27,2.0,1.0,2.0,0.0,0.0,2.0,1.0
+Stock,MARUTI,Maruti Suzuki India Ltd.,Nifty 100,NSE,Automobile and Auto Components,Q,Reacting,Demand,DBR,C,7.5,12400.0,10725.0,11450.0,-7.66,2024-10-01,2026-10-27,0.0,2.0,2.0,0.0,0.0,1.5,2.0
+Stock,MARUTI,Maruti Suzuki India Ltd.,Nifty 100,NSE,Automobile and Auto Components,H,Reacting,Demand,RBR,C,6.0,12400.0,10725.0,11450.0,-7.66,2024-07-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,1.0
+Stock,MCX,Multi Commodity Exchange of India Ltd.,Midcap 150,NSE,Financial Services,D,Reacting,Supply,DBD,B,8.0,3160.0,3224.4,3186.8,-0.85,2026-10-19,2026-10-27,0.0,1.0,2.0,0.0,2.0,3.0,0.0
+Stock,MMTC,MMTC Ltd.,Smallcap 250,NSE,Services,M,Reacting,Demand,DBR,C,7.0,56.19,44.5,51.11,-9.04,2025-03-01,2026-10-27,0.0,2.0,2.0,0.0,0.0,3.0,0.0
+Stock,MRPL,Mangalore Refinery & Petrochemicals Ltd.,Smallcap 250,NSE,Oil Gas & Consumable Fuels,D,Reacting,Supply,RBD,A,11.0,186.38,194.85,189.44,-1.64,2026-04-23,2026-10-27,0.0,2.0,2.0,2.0,2.0,3.0,0.0
+Stock,MUTHOOTFIN,Muthoot Finance Ltd.,Nifty 100,NSE,Financial Services,Q,Reacting,Demand,RBR,C,7.0,2623.9,1965.0,2407.5,-8.25,2025-04-01,2026-10-27,2.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,NATCOPHARM,NATCO Pharma Ltd.,Smallcap 250,NSE,Healthcare,Q,Reacting,Demand,RBR,C,7.0,952.05,724.2,794.55,-16.54,2023-10-01,2026-10-27,0.0,1.0,2.0,0.0,2.0,0.0,2.0
+Stock,NATCOPHARM,NATCO Pharma Ltd.,Smallcap 250,NSE,Healthcare,H,Reacting,Demand,DBR,B,8.0,811.35,502.0,794.55,-2.07,2022-07-01,2026-10-27,0.0,2.0,1.0,0.0,2.0,2.0,1.0
+Stock,NATCOPHARM,NATCO Pharma Ltd.,Smallcap 250,NSE,Healthcare,Y,Reacting,Demand,RBR,C,5.0,965.0,502.0,794.55,-17.66,2021-01-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,NBCC,NBCC (India) Ltd.,Smallcap 250,NSE,Construction,D,Reacting,Supply,DBD,B,10.0,70.47,71.3,70.5,-0.04,2026-10-22,2026-10-27,0.0,1.0,2.0,2.0,2.0,3.0,0.0
+Stock,NCC,NCC Ltd.,Smallcap 250,NSE,Construction,D,Reacting,Demand,DBR,A+,13.0,115.8,112.8,115.41,-0.34,2023-05-26,2026-10-27,0.0,2.0,2.0,2.0,2.0,3.0,2.0
+Stock,NCC,NCC Ltd.,Smallcap 250,NSE,Construction,M,Reacting,Demand,RBR,A,12.0,122.1,99.65,115.41,-5.48,2023-05-01,2026-10-27,2.0,1.0,2.0,2.0,2.0,3.0,0.0
+Stock,NESTLEIND,Nestle India Ltd.,Nifty 100,NSE,Fast Moving Consumer Goods,Q,Reacting,Demand,DBR,B,9.0,1293.0,1055.0,1180.5,-8.7,2025-01-01,2026-10-27,2.0,2.0,1.0,0.0,2.0,2.0,0.0
+Stock,NH,Narayana Hrudayalaya Ltd.,Midcap 150,NSE,Healthcare,M,Reacting,Demand,RBR,C,5.0,1770.0,1451.05,1713.2,-3.21,2025-04-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,NSLNISP,NMDC Steel Ltd.,Smallcap 250,NSE,Metals & Mining,D,Approaching,Supply,DBD,A,11.0,39.86,40.5,39.39,1.18,2026-10-16,2026-10-27,2.0,1.0,1.0,2.0,2.0,3.0,0.0
+Stock,OBEROIRLTY,Oberoi Realty Ltd.,Midcap 150,NSE,Realty,H,Reacting,Demand,RBR,C,5.0,1765.75,1268.15,1619.0,-8.31,2024-01-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,ONESOURCE,Onesource Specialty Pharma Ltd.,Smallcap 250,NSE,Healthcare,D,Reacting,Supply,DBD,B,10.0,1570.0,1605.0,1589.8,-1.26,2026-09-29,2026-10-27,0.0,1.0,2.0,2.0,2.0,3.0,0.0
+Stock,ONGC,Oil & Natural Gas Corporation Ltd.,Nifty 100,NSE,Oil Gas & Consumable Fuels,D,Approaching,Supply,DBD,A,12.0,230.0,231.7,229.85,0.07,2026-09-29,2026-10-27,2.0,1.0,2.0,2.0,2.0,3.0,0.0
+Stock,PCBL,PCBL Chemical Ltd.,Smallcap 250,NSE,Chemicals,M,Reacting,Demand,RBR,B,8.0,290.0,262.85,287.95,-0.71,2026-05-01,2026-10-27,2.0,1.0,2.0,0.0,0.0,2.0,1.0
+Stock,PIIND,PI Industries Ltd.,Midcap 150,NSE,Chemicals,Q,Reacting,Demand,RBR,C,7.0,2258.15,1933.0,2086.1,-7.62,2020-10-01,2026-10-27,0.0,1.0,2.0,2.0,0.0,2.0,0.0
+Stock,POONAWALLA,Poonawalla Fincorp Ltd.,Smallcap 250,NSE,Financial Services,W,Approaching,Demand,DBR,A,12.0,391.9,370.05,402.8,2.78,2026-06-01,2026-10-27,2.0,2.0,2.0,2.0,2.0,2.0,0.0
+Stock,PVRINOX,PVR INOX Ltd.,Smallcap 250,NSE,Media Entertainment & Publication,D,Approaching,Supply,RBD,A+,14.0,1481.45,1539.0,1464.0,1.18,2024-12-17,2026-10-27,2.0,2.0,2.0,2.0,2.0,3.0,1.0
+Stock,RAMCOCEM,The Ramco Cements Ltd.,Smallcap 250,NSE,Construction Materials,Q,Reacting,Demand,RBR,C,5.0,756.65,634.05,731.75,-3.29,2022-10-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,RECLTD,REC Ltd.,Midcap 150,NSE,Financial Services,D,Reacting,Demand,RBR,B,9.0,288.95,273.15,286.5,-0.85,2023-11-01,2026-10-27,0.0,1.0,2.0,2.0,2.0,0.0,2.0
+Stock,RECLTD,REC Ltd.,Midcap 150,NSE,Financial Services,M,Reacting,Demand,RBR,B,10.0,287.95,259.45,286.5,-0.5,2023-10-01,2026-10-27,2.0,1.0,2.0,2.0,0.0,3.0,0.0
+Stock,RELIANCE,Reliance Industries Ltd.,Nifty 100,NSE,Oil Gas & Consumable Fuels,M,Reacting,Demand,DBR,C,7.0,1203.28,1110.15,1196.2,-0.59,2023-09-01,2026-10-27,0.0,1.0,1.0,2.0,2.0,0.0,1.0
+Stock,RELIANCE,Reliance Industries Ltd.,Nifty 100,NSE,Oil Gas & Consumable Fuels,Q,Reacting,Demand,DBR,C,6.0,1275.1,1114.85,1196.2,-6.19,2025-01-01,2026-10-27,0.0,2.0,2.0,0.0,0.0,2.0,0.0
+Stock,RHIM,RHI MAGNESITA INDIA LTD.,Smallcap 250,NSE,Capital Goods,Q,Reacting,Demand,RBR,C,5.0,366.65,317.3,362.55,-1.12,2021-07-01,2026-10-27,0.0,1.0,2.0,2.0,0.0,0.0,0.0
+Stock,RPOWER,Reliance Power Ltd.,Smallcap 250,NSE,Power,Q,Reacting,Demand,RBR,B,8.0,28.93,15.55,16.98,-41.31,2023-10-01,2026-10-27,0.0,1.0,1.0,0.0,2.0,2.0,2.0
+Stock,RPOWER,Reliance Power Ltd.,Smallcap 250,NSE,Power,Y,Reacting,Demand,RBR,C,7.0,23.3,9.05,16.98,-27.12,2022-01-01,2026-10-27,2.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,RVNL,Rail Vikas Nigam Ltd.,Midcap 150,NSE,Construction,W,Reacting,Demand,RBR,B,8.5,184.65,165.6,181.0,-1.98,2023-12-18,2026-10-27,0.0,1.0,1.0,2.0,2.0,1.5,1.0
+Stock,SAMMAANCAP,Sammaan Capital Ltd.,Smallcap 250,NSE,Financial Services,Q,Reacting,Demand,DBR,C,6.0,138.34,79.33,113.97,-17.62,2022-07-01,2026-10-27,0.0,2.0,1.0,0.0,0.0,2.0,1.0
+Stock,SAMMAANCAP,Sammaan Capital Ltd.,Smallcap 250,NSE,Financial Services,H,Reacting,Demand,RBR,C,5.0,138.34,81.83,113.97,-17.62,2023-01-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,SCHAEFFLER,Schaeffler India Ltd.,Midcap 150,NSE,Automobile and Auto Components,W,Reacting,Supply,DBD,B,10.0,3669.2,3753.6,3670.2,-0.03,2026-10-12,2026-10-27,2.0,1.0,2.0,0.0,2.0,3.0,0.0
+Stock,SCI,Shipping Corporation of India Ltd.,Smallcap 250,NSE,Services,M,Reacting,Demand,DBR,B,10.0,251.8,195.55,244.3,-2.98,2025-12-01,2026-10-27,2.0,2.0,1.0,0.0,2.0,2.0,1.0
+Stock,SRF,SRF Ltd.,Midcap 150,NSE,Chemicals,Y,Reacting,Demand,RBR,C,6.0,2488.75,2002.2,2335.0,-6.18,2022-01-01,2026-10-27,2.0,1.0,1.0,0.0,0.0,2.0,0.0
+Stock,STLTECH,Sterlite Technologies Ltd.,Smallcap 250,NSE,Telecommunication,D,Approaching,Supply,DBD,A,11.0,924.65,957.3,910.9,1.49,2026-10-14,2026-10-27,2.0,2.0,2.0,2.0,0.0,3.0,0.0
+Stock,SUNDARMFIN,Sundaram Finance Ltd.,Midcap 150,NSE,Financial Services,D,Reacting,Demand,DBR,B,10.5,3925.0,3755.0,3902.0,-0.59,2024-08-08,2026-10-27,0.0,2.0,1.0,2.0,2.0,1.5,2.0
+Stock,SUNDARMFIN,Sundaram Finance Ltd.,Midcap 150,NSE,Financial Services,M,Reacting,Demand,RBR,C,5.0,4209.95,3622.25,3902.0,-7.31,2024-03-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,SUPREMEIND,Supreme Industries Ltd.,Midcap 150,NSE,Capital Goods,M,Reacting,Demand,DBR,C,6.0,3539.0,3095.0,3298.4,-6.8,2025-03-01,2026-10-27,0.0,2.0,2.0,0.0,0.0,2.0,0.0
+Stock,SUZLON,Suzlon Energy Ltd.,Midcap 150,NSE,Capital Goods,W,Reacting,Demand,DBR,B,9.0,39.0,36.31,36.92,-5.33,2026-10-05,2026-10-27,0.0,2.0,2.0,0.0,0.0,3.0,2.0
+Stock,SUZLON,Suzlon Energy Ltd.,Midcap 150,NSE,Capital Goods,M,Reacting,Demand,RBR,C,4.0,40.0,33.9,36.92,-7.7,2023-12-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,0.0,1.0
+Stock,SUZLON,Suzlon Energy Ltd.,Midcap 150,NSE,Capital Goods,Q,Reacting,Demand,RBR,B,8.0,40.4,35.5,36.92,-8.61,2024-01-01,2026-10-27,0.0,1.0,2.0,2.0,0.0,3.0,0.0
+Stock,SWANCORP,Swan Corp Ltd.,Smallcap 250,NSE,Chemicals,Q,Reacting,Demand,RBR,C,6.0,287.8,214.25,238.05,-17.29,2023-07-01,2026-10-27,0.0,1.0,2.0,2.0,0.0,0.0,1.0
+Stock,SWANCORP,Swan Corp Ltd.,Smallcap 250,NSE,Chemicals,H,Reacting,Demand,RBR,C,7.0,306.0,192.65,238.05,-22.21,2023-01-01,2026-10-27,0.0,1.0,2.0,2.0,0.0,2.0,0.0
+Stock,SYNGENE,Syngene International Ltd.,Smallcap 250,NSE,Healthcare,H,Reacting,Demand,RBR,C,3.0,400.9,212.55,366.2,-8.66,2019-07-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,0.0,0.0
+Stock,TATACAP,Tata Capital Ltd.,Nifty 100,NSE,Financial Services,D,Reacting,Demand,DBR,A+,13.0,300.75,296.0,300.45,-0.1,2026-06-02,2026-10-27,0.0,2.0,2.0,2.0,2.0,3.0,2.0
+Stock,TATACAP,Tata Capital Ltd.,Nifty 100,NSE,Financial Services,W,Reacting,Demand,DBR,B,8.0,314.8,296.0,300.45,-4.56,2026-05-25,2026-10-27,0.0,1.0,2.0,2.0,2.0,0.0,1.0
+Stock,TATACAP,Tata Capital Ltd.,Nifty 100,NSE,Financial Services,M,Reacting,Demand,DBR,C,6.0,334.95,296.0,300.45,-10.3,2026-04-01,2026-10-27,0.0,2.0,2.0,0.0,0.0,2.0,0.0
+Stock,TECHM,Tech Mahindra Ltd.,Nifty 100,NSE,Information Technology,D,Reacting,Supply,RBD,B,9.0,1743.1,1854.0,1811.4,-3.92,2026-01-29,2026-10-27,0.0,2.0,2.0,0.0,2.0,3.0,0.0
+Stock,TEJASNET,Tejas Networks Ltd.,Smallcap 250,NSE,Telecommunication,W,Reacting,Demand,DBR,A+,13.0,415.15,396.25,412.3,-0.69,2026-04-20,2026-10-27,0.0,2.0,2.0,2.0,2.0,3.0,2.0
+Stock,TEJASNET,Tejas Networks Ltd.,Smallcap 250,NSE,Telecommunication,Q,Reacting,Demand,DBR,A,11.0,452.6,294.0,412.3,-8.9,2026-01-01,2026-10-27,2.0,2.0,2.0,0.0,0.0,3.0,2.0
+Stock,UPL,UPL Ltd.,Midcap 150,NSE,Chemicals,H,Reacting,Demand,DBR,C,6.0,588.0,447.8,519.0,-11.73,2024-01-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,1.0
+Stock,UPL,UPL Ltd.,Midcap 150,NSE,Chemicals,Y,Reacting,Demand,DBR,B,8.0,588.0,447.8,519.0,-11.73,2024-01-01,2026-10-27,2.0,2.0,2.0,0.0,0.0,2.0,0.0
+Stock,USHAMART,Usha Martin Ltd.,Smallcap 250,NSE,Capital Goods,D,Reacting,Supply,DBD,B,8.0,476.5,487.3,479.3,-0.59,2026-10-21,2026-10-27,0.0,1.0,2.0,0.0,2.0,3.0,0.0
+Stock,UTIAMC,UTI Asset Management Company Ltd.,Smallcap 250,NSE,Financial Services,Q,Reacting,Demand,RBR,B,8.0,869.9,731.2,809.9,-6.9,2023-07-01,2026-10-27,0.0,1.0,1.0,2.0,0.0,2.0,2.0
+Stock,UTIAMC,UTI Asset Management Company Ltd.,Smallcap 250,NSE,Financial Services,Y,Reacting,Demand,RBR,C,5.0,1046.25,595.0,809.9,-22.59,2022-01-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Stock,VEDL,Vedanta Ltd.,Nifty 100,NSE,Metals & Mining,H,Reacting,Demand,RBR,B,10.0,309.95,208.0,225.6,-27.21,2023-01-01,2026-10-27,0.0,1.0,2.0,2.0,2.0,2.0,1.0
+Stock,VEDL,Vedanta Ltd.,Nifty 100,NSE,Metals & Mining,Y,Reacting,Demand,RBR,B,9.0,341.0,206.0,225.6,-33.84,2022-01-01,2026-10-27,2.0,1.0,2.0,0.0,2.0,2.0,0.0
+Stock,VTL,Vardhman Textiles Ltd.,Smallcap 250,NSE,Textiles,H,Reacting,Demand,RBR,C,6.0,509.5,361.1,497.35,-2.38,2024-07-01,2026-10-27,2.0,1.0,1.0,0.0,0.0,2.0,0.0
+Stock,WHIRLPOOL,Whirlpool of India Ltd.,Smallcap 250,NSE,Consumer Durables,Y,Reacting,Demand,RBR,C,7.0,889.05,555.55,847.05,-4.72,2015-01-01,2026-10-27,0.0,1.0,2.0,2.0,0.0,2.0,0.0
+Stock,ZFCVINDIA,ZF Commercial Vehicle Control Systems India Ltd.,Smallcap 250,NSE,Automobile and Auto Components,M,Reacting,Demand,DBR,C,6.0,2200.67,2050.33,2134.0,-3.03,2025-10-01,2026-10-27,0.0,2.0,2.0,0.0,0.0,2.0,0.0
+Index,BSE-500.BO,BSE 500,Broad,BSE,,D,Approaching,Supply,RBD,A+,13.0,34778.57,34895.23,34024.89,2.17,2026-10-16,2026-10-27,2.0,1.0,2.0,2.0,2.0,3.0,1.0
+Index,BSE-500.BO,BSE 500,Broad,BSE,,D,Reacting,Supply,DBD,B,8.0,33935.27,34117.41,34024.89,-0.26,2026-10-22,2026-10-27,0.0,1.0,2.0,2.0,0.0,3.0,0.0
+Index,^BSESN,BSE Sensex,Broad,BSE,,Q,Reacting,Demand,RBR,C,5.0,73651.35,70001.6,73598.67,-0.07,2024-01-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Index,Nifty 50,Nifty 50,Broad,NSE,,Q,Reacting,Demand,DBR,C,5.0,23637.65,21743.65,22749.75,-3.76,2025-01-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Index,Nifty 500,Nifty 500,Broad,NSE,,D,Approaching,Supply,RBD,A+,13.0,22230.95,22298.95,21734.9,2.23,2026-10-16,2026-10-27,2.0,1.0,2.0,2.0,2.0,3.0,1.0
+Index,Nifty 500,Nifty 500,Broad,NSE,,D,Reacting,Supply,DBD,B,8.0,21696.55,21793.95,21734.9,-0.18,2026-10-22,2026-10-27,0.0,1.0,2.0,2.0,0.0,3.0,0.0
+Index,Nifty LargeMidcap 250,Nifty LargeMidcap 250,Broad,NSE,,D,Reacting,Supply,DBD,B,8.0,15423.75,15491.05,15431.95,-0.05,2026-10-22,2026-10-27,0.0,1.0,2.0,2.0,0.0,3.0,0.0
+Index,Nifty MidSmallcap 400,Nifty MidSmallcap 400,Broad,NSE,,D,Reacting,Supply,DBD,B,8.0,19526.1,19656.55,19542.3,-0.08,2026-10-22,2026-10-27,0.0,1.0,2.0,2.0,0.0,3.0,0.0
+Index,Nifty Midcap 50,Nifty Midcap 50,Broad,NSE,,D,Reacting,Supply,DBD,B,8.0,16393.05,16485.15,16412.7,-0.12,2026-10-22,2026-10-27,0.0,1.0,2.0,2.0,0.0,3.0,0.0
+Index,Nifty Next 50,Nifty Next 50,Broad,NSE,,D,Reacting,Supply,DBD,B,8.0,67205.1,67543.1,67343.95,-0.21,2026-10-22,2026-10-27,0.0,1.0,2.0,2.0,0.0,3.0,0.0
+Index,Nifty Smallcap 250,Nifty Smallcap 250,Broad,NSE,,D,Reacting,Supply,DBD,B,10.0,16856.2,17012.2,16933.7,-0.46,2026-10-22,2026-10-27,0.0,1.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty Smallcap 50,Nifty Smallcap 50,Broad,NSE,,D,Approaching,Supply,RBD,A,12.0,9583.25,9752.8,9307.9,2.87,2026-10-13,2026-10-27,2.0,1.0,1.0,2.0,2.0,3.0,1.0
+Index,Nifty Smallcap 500,Nifty Smallcap 500,Broad,NSE,,D,Reacting,Supply,DBD,B,9.0,19309.2,19491.25,19354.6,-0.24,2026-10-22,2026-10-27,0.0,1.0,2.0,2.0,2.0,2.0,0.0
+Index,Nifty Total Market,Nifty Total Market,Broad,NSE,,D,Reacting,Supply,DBD,B,8.0,12262.9,12320.8,12282.4,-0.16,2026-10-22,2026-10-27,0.0,1.0,2.0,2.0,0.0,3.0,0.0
+Index,Nifty500 Multicap 50:25:25,Nifty500 Multicap 50:25:25,Broad,NSE,,D,Approaching,Supply,RBD,A,12.0,15734.2,15846.45,15388.05,2.2,2026-10-14,2026-10-27,2.0,1.0,1.0,2.0,2.0,3.0,1.0
+Index,Nifty500 Multicap 50:25:25,Nifty500 Multicap 50:25:25,Broad,NSE,,D,Reacting,Supply,DBD,B,8.0,15358.1,15438.35,15388.05,-0.2,2026-10-22,2026-10-27,0.0,1.0,2.0,2.0,0.0,3.0,0.0
+Index,Nifty Consumer Durables,Nifty Consumer Durables,Sectoral,NSE,,D,Reacting,Demand,DBR,B,8.0,35112.4,32205.3,34254.8,-2.44,2025-04-07,2026-10-27,0.0,2.0,2.0,0.0,2.0,0.0,2.0
+Index,Nifty Consumer Durables,Nifty Consumer Durables,Sectoral,NSE,,D,Approaching,Supply,DBD,A,12.0,34837.65,35106.35,34254.8,1.67,2026-10-22,2026-10-27,2.0,1.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty Energy,Nifty Energy,Sectoral,NSE,,D,Approaching,Supply,RBD,A,11.0,35974.45,36548.35,35261.85,1.98,2026-10-14,2026-10-27,2.0,2.0,1.0,0.0,2.0,3.0,1.0
+Index,Nifty Financial Services,Nifty Financial Services,Sectoral,NSE,,Q,Reacting,Demand,RBR,C,6.0,25074.9,22320.85,24303.75,-3.08,2024-07-01,2026-10-27,0.0,1.0,1.0,0.0,0.0,2.0,2.0
+Index,Nifty Media,Nifty Media,Sectoral,NSE,,M,Reacting,Supply,DBD,C,4.5,1612.0,1674.4,1615.05,-0.19,2025-08-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,1.5,0.0
+Index,Nifty Metal,Nifty Metal,Sectoral,NSE,,M,Reacting,Demand,RBR,C,6.0,12240.65,10819.85,11806.7,-3.55,2026-01-01,2026-10-27,2.0,1.0,1.0,0.0,0.0,2.0,0.0
+Index,Nifty Pharma,Nifty Pharma,Sectoral,NSE,,D,Approaching,Supply,RBD,A,12.0,26887.6,27255.05,26267.25,2.31,2026-09-24,2026-10-27,2.0,2.0,1.0,2.0,2.0,3.0,0.0
+Index,Nifty Private Bank,Nifty Private Bank,Sectoral,NSE,,W,Reacting,Demand,RBR,B,9.0,26639.75,25733.15,26628.45,-0.04,2026-05-25,2026-10-27,0.0,1.0,2.0,0.0,2.0,2.0,2.0
+Index,Nifty Realty,Nifty Realty,Sectoral,NSE,,M,Reacting,Demand,RBR,C,4.5,829.55,734.9,805.05,-2.95,2026-05-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,1.5,0.0
+Index,NIFTY50 Equal Weight,NIFTY50 Equal Weight,Thematic,NSE,,D,Approaching,Supply,DBD,A+,13.0,31626.7,31719.1,30711.45,2.89,2026-09-25,2026-10-27,2.0,1.0,2.0,2.0,2.0,3.0,1.0
+Index,Nifty Alpha 50,Nifty Alpha 50,Thematic,NSE,,D,Approaching,Supply,DBD,A,12.0,53690.55,54095.9,52426.75,2.35,2026-10-16,2026-10-27,2.0,1.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty Capital Markets,Nifty Capital Markets,Thematic,NSE,,D,Approaching,Supply,DBD,A,11.0,5190.85,5274.1,5113.25,1.49,2026-10-19,2026-10-27,2.0,1.0,2.0,0.0,2.0,3.0,1.0
+Index,Nifty Capital Markets,Nifty Capital Markets,Thematic,NSE,,W,Reacting,Supply,DBD,B,8.0,5051.85,5331.55,5113.25,-1.22,2026-10-05,2026-10-27,2.0,1.0,2.0,0.0,0.0,3.0,0.0
+Index,Nifty Commodities,Nifty Commodities,Thematic,NSE,,D,Approaching,Supply,DBD,A,12.0,9166.2,9264.6,8978.65,2.05,2026-10-05,2026-10-27,2.0,1.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty Commodities,Nifty Commodities,Thematic,NSE,,W,Reacting,Supply,DBD,B,8.0,8960.85,9159.9,8978.65,-0.2,2026-10-12,2026-10-27,2.0,1.0,2.0,0.0,0.0,3.0,0.0
+Index,Nifty Growth Sectors 15,Nifty Growth Sectors 15,Thematic,NSE,,D,Approaching,Supply,DBD,A+,13.0,11218.95,11238.25,10978.4,2.14,2026-09-08,2026-10-27,2.0,2.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty Housing,Nifty Housing,Thematic,NSE,,D,Approaching,Supply,RBD,A,12.0,11159.1,11202.95,10912.95,2.21,2026-10-16,2026-10-27,2.0,1.0,2.0,2.0,2.0,2.0,1.0
+Index,Nifty India New Age Consumption,Nifty India New Age Consumption,Thematic,NSE,,D,Approaching,Supply,RBD,A+,13.0,11257.1,11306.2,10983.45,2.43,2026-10-16,2026-10-27,2.0,1.0,2.0,2.0,2.0,3.0,1.0
+Index,Nifty India Tourism,Nifty India Tourism,Thematic,NSE,,D,Approaching,Supply,DBD,A,12.0,7764.2,7798.9,7593.65,2.2,2026-09-25,2026-10-27,2.0,1.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty India Tourism,Nifty India Tourism,Thematic,NSE,,D,Approaching,Supply,RBD,A,11.5,7649.95,7749.9,7593.65,0.74,2026-10-07,2026-10-27,2.0,2.0,2.0,2.0,2.0,1.5,0.0
+Index,Nifty Infrastructure,Nifty Infrastructure,Thematic,NSE,,D,Approaching,Supply,DBD,A+,14.0,8939.3,8970.85,8726.6,2.38,2026-09-25,2026-10-27,2.0,1.0,2.0,2.0,2.0,3.0,2.0
+Index,Nifty Low Volatility 50,Nifty Low Volatility 50,Thematic,NSE,,Q,Reacting,Demand,DBR,C,6.0,23618.05,21994.7,22921.0,-2.95,2025-01-01,2026-10-27,0.0,2.0,2.0,0.0,0.0,2.0,0.0
+Index,Nifty MidSmall India Consumption,Nifty MidSmall India Consumption,Thematic,NSE,,D,Approaching,Supply,RBD,A,11.0,17437.55,17632.2,17003.3,2.49,2026-10-14,2026-10-27,2.0,1.0,1.0,2.0,2.0,2.0,1.0
+Index,Nifty PSE,Nifty PSE,Thematic,NSE,,D,Approaching,Supply,RBD,A,11.0,9190.6,9302.1,9048.6,1.55,2026-10-15,2026-10-27,2.0,2.0,1.0,0.0,2.0,3.0,1.0
+Index,Nifty Quality Low-Volatility 30,Nifty Quality Low-Volatility 30,Thematic,NSE,,W,Approaching,Supply,DBD,A,11.0,16063.7,16225.9,15622.95,2.74,2026-09-14,2026-10-27,2.0,1.0,2.0,2.0,2.0,2.0,0.0
+Index,Nifty Rural,Nifty Rural,Thematic,NSE,,Q,Reacting,Demand,DBR,C,6.0,13969.5,12891.5,13925.55,-0.31,2025-01-01,2026-10-27,0.0,2.0,2.0,0.0,0.0,2.0,0.0
+Index,Nifty Services Sector,Nifty Services Sector,Thematic,NSE,,D,Approaching,Supply,RBD,A+,13.0,30575.55,30753.0,30236.0,1.11,2026-09-04,2026-10-27,2.0,2.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty Shariah 25,Nifty Shariah 25,Thematic,NSE,,D,Approaching,Supply,DBD,A+,13.0,7785.8,7799.9,7610.35,2.25,2026-09-08,2026-10-27,2.0,2.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty Top 10 Equal Weight,Nifty Top 10 Equal Weight,Thematic,NSE,,D,Approaching,Supply,RBD,A,11.0,8587.05,8676.4,8329.5,3.0,2026-09-01,2026-10-27,2.0,2.0,1.0,2.0,2.0,2.0,0.0
+Index,Nifty Total Market Momentum Quality 50,Nifty Total Market Momentum Quality 50,Thematic,NSE,,D,Approaching,Supply,DBD,A,12.0,41888.45,42391.8,41224.95,1.58,2026-10-16,2026-10-27,2.0,1.0,2.0,2.0,2.0,2.0,1.0
+Index,Nifty Transportation & Logistics,Nifty Transportation & Logistics,Thematic,NSE,,D,Approaching,Supply,RBD,A+,14.0,23996.15,24251.5,23708.6,1.2,2026-10-16,2026-10-27,2.0,2.0,2.0,2.0,2.0,3.0,1.0
+Index,Nifty100 ESG Sector Leaders,Nifty100 ESG Sector Leaders,Thematic,NSE,,W,Reacting,Demand,RBR,B,9.0,3928.85,3610.9,3779.95,-3.79,2025-03-24,2026-10-27,0.0,1.0,2.0,0.0,2.0,2.0,2.0
+Index,Nifty100 ESG Sector Leaders,Nifty100 ESG Sector Leaders,Thematic,NSE,,Q,Reacting,Demand,DBR,C,5.0,3939.15,3610.9,3779.95,-4.04,2025-01-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Index,Nifty100 Equal Weight,Nifty100 Equal Weight,Thematic,NSE,,D,Reacting,Supply,DBD,B,8.0,32081.45,32196.9,32126.5,-0.14,2026-10-22,2026-10-27,0.0,1.0,2.0,2.0,0.0,3.0,0.0
+Index,Nifty100 Low Volatility 30,Nifty100 Low Volatility 30,Thematic,NSE,,Q,Reacting,Demand,RBR,C,5.0,19077.45,17217.7,18675.1,-2.11,2024-04-01,2026-10-27,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Index,Nifty500 Healthcare,Nifty500 Healthcare,Thematic,NSE,,W,Reacting,Supply,DBD,B,8.0,20679.4,21105.35,20751.7,-0.35,2026-10-05,2026-10-27,2.0,1.0,2.0,0.0,0.0,3.0,0.0
+Index,Nifty500 LargeMidSmall Equal-Cap Weighted,Nifty500 LargeMidSmall Equal-Cap Weighted,Thematic,NSE,,D,Approaching,Supply,RBD,A,12.0,17664.45,17751.05,17157.75,2.87,2026-10-14,2026-10-27,2.0,1.0,1.0,2.0,2.0,3.0,1.0
+Index,Nifty500 LargeMidSmall Equal-Cap Weighted,Nifty500 LargeMidSmall Equal-Cap Weighted,Thematic,NSE,,D,Reacting,Supply,DBD,B,8.0,17125.8,17226.5,17157.75,-0.19,2026-10-22,2026-10-27,0.0,1.0,2.0,2.0,0.0,3.0,0.0
+Index,Nifty500 Low Volatility 50,Nifty500 Low Volatility 50,Thematic,NSE,,D,Approaching,Supply,RBD,A+,13.0,21451.6,21695.65,21002.05,2.1,2026-09-23,2026-10-27,2.0,2.0,2.0,2.0,2.0,2.0,1.0
+Index,Nifty500 Momentum 50,Nifty500 Momentum 50,Thematic,NSE,,D,Approaching,Supply,DBD,A+,13.0,52153.85,52608.8,51404.3,1.44,2026-10-16,2026-10-27,2.0,1.0,2.0,2.0,2.0,3.0,1.0
+Index,Nifty500 Multicap India Manufacturing 50:30:20,Nifty500 Multicap India Manufacturing 50:30:20,Thematic,NSE,,D,Approaching,Supply,DBD,A,12.0,15660.05,15839.85,15539.2,0.77,2026-10-15,2026-10-27,2.0,1.0,1.0,2.0,2.0,3.0,1.0
+Index,Nifty500 Multicap Momentum Quality 50,Nifty500 Multicap Momentum Quality 50,Thematic,NSE,,D,Approaching,Supply,DBD,A,12.0,39277.2,39690.0,38456.6,2.09,2026-10-16,2026-10-27,2.0,1.0,2.0,2.0,2.0,2.0,1.0
+Index,Nifty500 Quality 50,Nifty500 Quality 50,Thematic,NSE,,D,Approaching,Supply,RBD,A,12.0,18650.85,18786.9,18148.15,2.7,2026-10-15,2026-10-27,2.0,2.0,2.0,2.0,2.0,2.0,0.0
