@@ -182,58 +182,84 @@ Index,BSE-100.BO,BSE 100,Broad,BSE,,D,Approaching,Supply,RBD,A+,13.0,27687.45,27
 Index,BSE-100.BO,BSE 100,Broad,BSE,,M,Reacting,Supply,DBD,C,6.0,25985.43,27537.95,26866.69,-3.39,2026-02-01,2026-11-23,0.0,1.0,2.0,0.0,0.0,3.0,0.0
 Index,BSE-200.BO,BSE 200,Broad,BSE,,D,Approaching,Demand,RBR,A,12.0,11330.61,11240.25,11641.17,2.74,2026-11-05,2026-11-23,2.0,1.0,2.0,2.0,2.0,3.0,0.0
 Index,^BSESN,BSE Sensex,Broad,BSE,,M,Reacting,Supply,DBD,C,6.5,80555.68,85871.73,82435.99,-2.33,2026-02-01,2026-11-23,2.0,1.0,2.0,0.0,0.0,1.5,0.0
-Index,Nifty 100,Nifty 100,Broad,NSE,,M,Reacting,Supply,DBD,C,6.0,25366.85,26893.85,26217.3,-3.35,2026-02-01,2026-11-23,0.0,1.0,2.0,0.0,0.0,3.0,0.0
-Index,Nifty 200,Nifty 200,Broad,NSE,,D,Approaching,Supply,RBD,A+,13.0,14784.8,14833.75,14362.3,2.86,2024-09-27,2026-11-23,2.0,2.0,2.0,2.0,2.0,3.0,0.0
-Index,Nifty 50,Nifty 50,Broad,NSE,,M,Reacting,Supply,DBD,B,8.0,24796.5,26341.2,25349.65,-2.23,2026-02-01,2026-11-23,2.0,1.0,2.0,0.0,0.0,3.0,0.0
-Index,Nifty MidSmallcap 400,Nifty MidSmallcap 400,Broad,NSE,,D,Approaching,Supply,RBD,A,12.0,21158.3,21311.5,20765.7,1.86,2026-09-21,2026-11-23,2.0,1.0,2.0,2.0,2.0,3.0,0.0
-Index,Nifty Midcap 150,Nifty Midcap 150,Broad,NSE,,W,Reacting,Supply,DBD,B,10.0,22437.0,22956.8,22542.45,-0.47,2026-09-14,2026-11-23,0.0,1.0,2.0,2.0,2.0,3.0,0.0
-Index,Nifty Midcap Select,Nifty Midcap Select,Broad,NSE,,M,Approaching,Supply,RBD,B,8.0,14426.35,15089.75,14199.6,1.57,2026-06-01,2026-11-23,2.0,1.0,2.0,0.0,0.0,3.0,0.0
-Index,Nifty Smallcap 250,Nifty Smallcap 250,Broad,NSE,,D,Approaching,Supply,RBD,A+,14.0,18155.5,18418.4,17662.6,2.71,2026-09-23,2026-11-23,2.0,2.0,2.0,2.0,2.0,3.0,1.0
-Index,Nifty Total Market,Nifty Total Market,Broad,NSE,,D,Approaching,Supply,RBD,A+,13.0,13794.75,13842.6,13384.0,2.98,2024-09-27,2026-11-23,2.0,2.0,2.0,2.0,2.0,3.0,0.0
-Index,Nifty Financial Services,Nifty Financial Services,Sectoral,NSE,,D,Approaching,Demand,RBR,A,11.0,28119.3,27868.3,28153.5,0.12,2026-11-18,2026-11-23,2.0,1.0,2.0,2.0,2.0,2.0,0.0
-Index,Nifty Metal,Nifty Metal,Sectoral,NSE,,D,Reacting,Demand,RBR,A,11.0,11848.45,11712.6,11819.25,-0.25,2026-10-28,2026-11-23,0.0,1.0,1.0,2.0,2.0,3.0,2.0
-Index,Nifty Metal,Nifty Metal,Sectoral,NSE,,M,Reacting,Demand,RBR,C,2.0,12240.65,10819.85,11819.25,-3.44,2026-01-01,2026-11-23,0.0,1.0,1.0,0.0,0.0,0.0,0.0
-Index,Nifty Oil & Gas,Nifty Oil & Gas,Sectoral,NSE,,W,Reacting,Demand,RBR,B,8.0,11312.45,11232.6,11306.9,-0.05,2026-11-09,2026-11-23,2.0,1.0,2.0,0.0,0.0,3.0,0.0
-Index,NIFTY100 Enhanced ESG,NIFTY100 Enhanced ESG,Thematic,NSE,,M,Reacting,Supply,RBD,C,5.0,5022.55,5316.4,5190.0,-3.33,2025-12-01,2026-11-23,0.0,2.0,1.0,0.0,0.0,2.0,0.0
-Index,NIFTY100 Quality 30,NIFTY100 Quality 30,Thematic,NSE,,W,Approaching,Supply,RBD,A+,14.0,5772.6,5816.45,5694.0,1.36,2026-08-10,2026-11-23,2.0,2.0,2.0,2.0,2.0,3.0,1.0
-Index,NIFTY50 Equal Weight,NIFTY50 Equal Weight,Thematic,NSE,,D,Approaching,Demand,RBR,A,11.0,32985.0,32670.3,33629.25,1.95,2026-11-05,2026-11-23,2.0,1.0,2.0,2.0,2.0,2.0,0.0
-Index,Nifty Alpha Low-Volatility 30,Nifty Alpha Low-Volatility 30,Thematic,NSE,,D,Approaching,Demand,RBR,A,12.0,26154.65,25899.4,26777.6,2.38,2026-11-05,2026-11-23,2.0,1.0,2.0,2.0,2.0,3.0,0.0
-Index,Nifty Alpha Low-Volatility 30,Nifty Alpha Low-Volatility 30,Thematic,NSE,,D,Approaching,Supply,DBD,A+,14.0,27347.35,27434.45,26777.6,2.08,2026-08-17,2026-11-23,2.0,1.0,2.0,2.0,2.0,3.0,2.0
-Index,Nifty Alpha Quality Low-Volatility 30,Nifty Alpha Quality Low-Volatility 30,Thematic,NSE,,W,Approaching,Supply,RBD,A+,13.0,23213.45,23518.0,22648.25,2.43,2026-08-03,2026-11-23,2.0,2.0,2.0,2.0,2.0,2.0,1.0
-Index,Nifty Alpha Quality Low-Volatility 30,Nifty Alpha Quality Low-Volatility 30,Thematic,NSE,,W,Approaching,Supply,DBD,A,12.0,22932.3,23114.45,22648.25,1.24,2026-08-24,2026-11-23,2.0,1.0,2.0,2.0,2.0,2.0,1.0
-Index,Nifty Alpha Quality Low-Volatility 30,Nifty Alpha Quality Low-Volatility 30,Thematic,NSE,,M,Approaching,Supply,RBD,B,10.0,23114.45,23518.0,22648.25,2.02,2026-08-01,2026-11-23,2.0,2.0,2.0,2.0,0.0,2.0,0.0
-Index,Nifty Alpha Quality Value Low-Volatility 30,Nifty Alpha Quality Value Low-Volatility 30,Thematic,NSE,,W,Approaching,Supply,DBD,A,11.0,20192.4,20305.65,19841.8,1.74,2026-08-24,2026-11-23,2.0,1.0,2.0,2.0,2.0,2.0,0.0
-Index,Nifty Conglomerate 50,Nifty Conglomerate 50,Thematic,NSE,,D,Approaching,Supply,DBD,A+,14.0,15396.4,15437.85,14986.95,2.66,2026-08-28,2026-11-23,2.0,1.0,2.0,2.0,2.0,3.0,2.0
-Index,Nifty Core Housing,Nifty Core Housing,Thematic,NSE,,M,Approaching,Supply,RBD,B,10.0,15834.05,16233.55,15589.8,1.54,2026-08-01,2026-11-23,2.0,2.0,2.0,2.0,0.0,2.0,0.0
-Index,Nifty EV & New Age Automotive,Nifty EV & New Age Automotive,Thematic,NSE,,D,Approaching,Demand,DBR,A,11.0,3156.4,3116.95,3208.95,1.66,2026-11-17,2026-11-23,2.0,1.0,2.0,0.0,2.0,3.0,1.0
-Index,Nifty EV & New Age Automotive,Nifty EV & New Age Automotive,Thematic,NSE,,M,Approaching,Supply,RBD,B,8.0,3282.75,3422.5,3208.95,2.25,2026-08-01,2026-11-23,2.0,2.0,2.0,0.0,0.0,2.0,0.0
-Index,Nifty Housing,Nifty Housing,Thematic,NSE,,D,Reacting,Demand,DBR,B,8.0,12147.5,12010.8,12074.85,-0.6,2026-11-13,2026-11-23,0.0,2.0,1.0,0.0,2.0,2.0,1.0
-Index,Nifty India Consumption,Nifty India Consumption,Thematic,NSE,,D,Approaching,Supply,RBD,A+,14.0,12550.1,12634.8,12262.25,2.29,2025-10-28,2026-11-23,2.0,1.0,2.0,2.0,2.0,3.0,2.0
-Index,Nifty India Consumption,Nifty India Consumption,Thematic,NSE,,D,Approaching,Supply,DBD,A+,13.0,12452.65,12517.35,12262.25,1.53,2025-11-28,2026-11-23,2.0,1.0,1.0,2.0,2.0,3.0,2.0
-Index,Nifty India FPI 150,Nifty India FPI 150,Thematic,NSE,,D,Approaching,Demand,RBR,A,11.0,1569.85,1556.95,1600.25,1.94,2026-11-05,2026-11-23,2.0,1.0,2.0,2.0,2.0,2.0,0.0
-Index,Nifty India Railways PSU,Nifty India Railways PSU,Thematic,NSE,,D,Reacting,Demand,RBR,B,8.0,2584.7,2532.5,2538.4,-1.79,2026-11-05,2026-11-23,0.0,1.0,2.0,0.0,2.0,3.0,0.0
-Index,Nifty India Tourism,Nifty India Tourism,Thematic,NSE,,D,Approaching,Supply,RBD,A,12.0,8621.9,8691.4,8421.8,2.32,2026-01-01,2026-11-23,2.0,1.0,2.0,2.0,2.0,3.0,0.0
-Index,Nifty Infrastructure,Nifty Infrastructure,Thematic,NSE,,M,Reacting,Supply,RBD,C,6.0,8920.65,9743.8,9530.35,-6.83,2025-11-01,2026-11-23,0.0,2.0,1.0,0.0,0.0,3.0,0.0
-Index,Nifty Low Volatility 50,Nifty Low Volatility 50,Thematic,NSE,,D,Approaching,Demand,RBR,A,12.0,24370.65,24186.1,24893.7,2.15,2026-11-05,2026-11-23,2.0,1.0,2.0,2.0,2.0,3.0,0.0
-Index,Nifty Low Volatility 50,Nifty Low Volatility 50,Thematic,NSE,,D,Approaching,Demand,RBR,A,11.0,24758.95,24525.85,24893.7,0.54,2026-11-17,2026-11-23,2.0,1.0,2.0,0.0,2.0,3.0,1.0
-Index,Nifty Low Volatility 50,Nifty Low Volatility 50,Thematic,NSE,,M,Reacting,Supply,RBD,C,5.0,24589.4,25912.8,24893.7,-1.24,2025-10-01,2026-11-23,0.0,2.0,1.0,0.0,0.0,2.0,0.0
-Index,Nifty MidSmallcap400 Momentum Quality 100,Nifty MidSmallcap400 Momentum Quality 100,Thematic,NSE,,D,Approaching,Demand,RBR,A,11.0,49747.6,49331.3,51096.85,2.71,2026-11-03,2026-11-23,2.0,1.0,2.0,2.0,2.0,2.0,0.0
-Index,Nifty Midcap150 Momentum 50,Nifty Midcap150 Momentum 50,Thematic,NSE,,D,Approaching,Demand,RBR,A,12.0,60569.5,60003.5,62095.75,2.52,2026-11-03,2026-11-23,2.0,1.0,2.0,2.0,2.0,3.0,0.0
-Index,Nifty PSE,Nifty PSE,Thematic,NSE,,D,Approaching,Demand,RBR,A+,13.0,9098.55,9005.2,9340.1,2.65,2026-10-30,2026-11-23,2.0,2.0,2.0,2.0,2.0,3.0,0.0
-Index,Nifty Quality Low-Volatility 30,Nifty Quality Low-Volatility 30,Thematic,NSE,,M,Reacting,Supply,DBD,C,5.0,16784.4,17464.3,16979.95,-1.17,2026-02-01,2026-11-23,0.0,1.0,2.0,0.0,0.0,2.0,0.0
-Index,Nifty Rural,Nifty Rural,Thematic,NSE,,M,Reacting,Supply,RBD,C,5.0,15153.05,16396.4,15604.05,-2.98,2025-11-01,2026-11-23,0.0,2.0,1.0,0.0,0.0,2.0,0.0
-Index,Nifty SME EMERGE,Nifty SME EMERGE,Thematic,NSE,,D,Approaching,Demand,RBR,A,12.0,13747.6,13697.0,14093.55,2.52,2026-06-15,2026-11-23,2.0,1.0,2.0,2.0,2.0,3.0,0.0
-Index,Nifty Services Sector,Nifty Services Sector,Thematic,NSE,,M,Reacting,Supply,DBD,B,9.5,32325.6,34549.75,32707.65,-1.18,2026-01-01,2026-11-23,2.0,2.0,2.0,0.0,2.0,1.5,0.0
-Index,Nifty Top 10 Equal Weight,Nifty Top 10 Equal Weight,Thematic,NSE,,D,Approaching,Supply,DBD,A+,14.0,9656.95,9695.2,9369.55,2.98,2026-02-10,2026-11-23,2.0,1.0,2.0,2.0,2.0,3.0,2.0
-Index,Nifty Top 10 Equal Weight,Nifty Top 10 Equal Weight,Thematic,NSE,,M,Reacting,Supply,DBD,B,10.0,9257.4,10003.85,9369.55,-1.21,2026-02-01,2026-11-23,2.0,2.0,2.0,0.0,2.0,2.0,0.0
-Index,Nifty Top 15 Equal Weight,Nifty Top 15 Equal Weight,Thematic,NSE,,M,Reacting,Supply,DBD,C,7.0,10399.65,11021.25,10517.05,-1.13,2026-02-01,2026-11-23,2.0,1.0,2.0,0.0,0.0,2.0,0.0
-Index,Nifty Top 20 Equal Weight,Nifty Top 20 Equal Weight,Thematic,NSE,,M,Reacting,Supply,DBD,C,7.0,9188.6,9768.2,9385.95,-2.15,2026-02-01,2026-11-23,2.0,1.0,2.0,0.0,0.0,2.0,0.0
-Index,Nifty100 Low Volatility 30,Nifty100 Low Volatility 30,Thematic,NSE,,D,Approaching,Demand,RBR,A,12.0,19946.05,19795.85,20475.05,2.65,2026-11-05,2026-11-23,2.0,1.0,2.0,2.0,2.0,3.0,0.0
-Index,Nifty100 Low Volatility 30,Nifty100 Low Volatility 30,Thematic,NSE,,D,Approaching,Demand,RBR,A,11.0,20354.0,20190.1,20475.05,0.59,2026-11-17,2026-11-23,2.0,1.0,2.0,0.0,2.0,3.0,1.0
-Index,Nifty100 Low Volatility 30,Nifty100 Low Volatility 30,Thematic,NSE,,M,Reacting,Supply,DBD,C,6.0,20184.1,21123.25,20475.05,-1.44,2026-02-01,2026-11-23,0.0,1.0,2.0,0.0,0.0,3.0,0.0
-Index,Nifty200 Momentum 30,Nifty200 Momentum 30,Thematic,NSE,,M,Reacting,Supply,DBD,C,6.0,29357.75,31955.2,29672.9,-1.07,2026-01-01,2026-11-23,0.0,1.0,2.0,0.0,0.0,3.0,0.0
-Index,Nifty50 Shariah,Nifty50 Shariah,Thematic,NSE,,M,Reacting,Supply,RBD,B,10.0,4293.0,4460.8,4333.65,-0.95,2026-08-01,2026-11-23,2.0,2.0,2.0,0.0,2.0,2.0,0.0
-Index,Nifty50 Value 20,Nifty50 Value 20,Thematic,NSE,,D,Approaching,Demand,RBR,A+,13.0,12408.8,12323.65,12417.4,0.07,2026-11-18,2026-11-23,2.0,1.0,2.0,2.0,2.0,3.0,1.0
-Index,Nifty500 Low Volatility 50,Nifty500 Low Volatility 50,Thematic,NSE,,D,Approaching,Demand,RBR,A,12.0,22090.1,21910.1,22685.1,2.69,2026-11-05,2026-11-23,2.0,1.0,2.0,2.0,2.0,3.0,0.0
-Index,Nifty500 Low Volatility 50,Nifty500 Low Volatility 50,Thematic,NSE,,D,Approaching,Demand,DBR,A,11.0,22450.35,22281.1,22685.1,1.05,2026-11-16,2026-11-23,2.0,2.0,1.0,0.0,2.0,3.0,1.0
-Index,Nifty500 Low Volatility 50,Nifty500 Low Volatility 50,Thematic,NSE,,D,Approaching,Supply,RBD,A+,13.0,23179.05,23254.1,22685.1,2.13,2026-02-26,2026-11-23,2.0,2.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty 100,Nifty 100,Broad,NSE,,D,Approaching,Supply,RBD,A+,13.0,27253.85,27335.65,26651.7,2.21,2024-09-27,2026-11-25,2.0,2.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty 100,Nifty 100,Broad,NSE,,M,Reacting,Supply,DBD,C,6.0,25366.85,26893.85,26651.7,-5.07,2026-02-01,2026-11-25,0.0,1.0,2.0,0.0,0.0,3.0,0.0
+Index,Nifty 200,Nifty 200,Broad,NSE,,D,Approaching,Supply,RBD,A+,13.0,14784.8,14833.75,14562.8,1.5,2024-09-27,2026-11-25,2.0,2.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty 50,Nifty 50,Broad,NSE,,M,Reacting,Supply,DBD,B,8.0,24796.5,26341.2,25819.25,-4.12,2026-02-01,2026-11-25,2.0,1.0,2.0,0.0,0.0,3.0,0.0
+Index,Nifty 500,Nifty 500,Broad,NSE,,D,Approaching,Supply,RBD,A+,13.0,24489.55,24573.4,24025.4,1.9,2024-09-27,2026-11-25,2.0,2.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty MidSmallcap 400,Nifty MidSmallcap 400,Broad,NSE,,D,Approaching,Supply,RBD,A,12.0,21158.3,21311.5,20782.1,1.78,2026-09-21,2026-11-25,2.0,1.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty Midcap 150,Nifty Midcap 150,Broad,NSE,,W,Reacting,Supply,DBD,B,10.0,22437.0,22956.8,22591.4,-0.69,2026-09-14,2026-11-25,0.0,1.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty Midcap Select,Nifty Midcap Select,Broad,NSE,,M,Approaching,Supply,RBD,B,8.0,14426.35,15089.75,14236.1,1.32,2026-06-01,2026-11-25,2.0,1.0,2.0,0.0,0.0,3.0,0.0
+Index,Nifty Smallcap 100,Nifty Smallcap 100,Broad,NSE,,D,Approaching,Demand,RBR,A,12.0,18692.4,18535.55,19229.35,2.87,2026-11-03,2026-11-25,2.0,1.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty Smallcap 250,Nifty Smallcap 250,Broad,NSE,,D,Approaching,Supply,RBD,A+,14.0,18155.5,18418.4,17630.6,2.89,2026-09-23,2026-11-25,2.0,2.0,2.0,2.0,2.0,3.0,1.0
+Index,Nifty Smallcap 500,Nifty Smallcap 500,Broad,NSE,,D,Approaching,Supply,RBD,A,12.0,20493.7,20616.75,20009.3,2.36,2026-11-13,2026-11-25,2.0,2.0,2.0,2.0,0.0,3.0,1.0
+Index,Nifty Total Market,Nifty Total Market,Broad,NSE,,D,Approaching,Supply,RBD,A+,13.0,13794.75,13842.6,13530.65,1.91,2024-09-27,2026-11-25,2.0,2.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty Auto,Nifty Auto,Sectoral,NSE,,D,Reacting,Supply,DBD,B,10.5,28772.55,29090.3,28821.5,-0.17,2026-08-28,2026-11-25,0.0,1.0,2.0,2.0,2.0,1.5,2.0
+Index,Nifty Cement,Nifty Cement,Sectoral,NSE,,D,Approaching,Supply,DBD,A,12.0,15225.15,15276.55,14860.55,2.39,2026-08-12,2026-11-25,2.0,1.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty FMCG,Nifty FMCG,Sectoral,NSE,,M,Reacting,Supply,DBD,C,6.0,50103.9,52548.65,50143.5,-0.08,2026-02-01,2026-11-25,0.0,1.0,2.0,0.0,0.0,3.0,0.0
+Index,Nifty FMCG,Nifty FMCG,Sectoral,NSE,,M,Reacting,Supply,DBD,B,8.0,48794.2,50550.15,50143.5,-2.77,2026-06-01,2026-11-25,2.0,1.0,2.0,0.0,0.0,3.0,0.0
+Index,Nifty Financial Services,Nifty Financial Services,Sectoral,NSE,,D,Approaching,Demand,RBR,A,11.0,28119.3,27868.3,28764.95,2.3,2026-11-18,2026-11-25,2.0,1.0,2.0,2.0,2.0,2.0,0.0
+Index,Nifty Metal,Nifty Metal,Sectoral,NSE,,M,Reacting,Demand,RBR,C,2.0,12240.65,10819.85,11578.5,-5.41,2026-01-01,2026-11-25,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+Index,NIFTY100 Enhanced ESG,NIFTY100 Enhanced ESG,Thematic,NSE,,M,Reacting,Supply,RBD,C,5.0,5022.55,5316.4,5273.25,-4.99,2025-12-01,2026-11-25,0.0,2.0,1.0,0.0,0.0,2.0,0.0
+Index,NIFTY200 Quality 30,NIFTY200 Quality 30,Thematic,NSE,,W,Approaching,Supply,DBD,A+,13.0,20609.1,20694.4,20033.65,2.79,2026-08-24,2026-11-25,2.0,1.0,2.0,2.0,2.0,3.0,1.0
+Index,Nifty Alpha Low-Volatility 30,Nifty Alpha Low-Volatility 30,Thematic,NSE,,D,Approaching,Supply,RBD,A+,15.0,27674.05,27713.45,27180.15,1.78,2026-08-10,2026-11-25,2.0,2.0,2.0,2.0,2.0,3.0,2.0
+Index,Nifty Alpha Low-Volatility 30,Nifty Alpha Low-Volatility 30,Thematic,NSE,,D,Approaching,Supply,DBD,A+,14.0,27347.35,27434.45,27180.15,0.61,2026-08-17,2026-11-25,2.0,1.0,2.0,2.0,2.0,3.0,2.0
+Index,Nifty Alpha Quality Low-Volatility 30,Nifty Alpha Quality Low-Volatility 30,Thematic,NSE,,W,Approaching,Supply,RBD,A+,13.0,23213.45,23518.0,23206.75,0.03,2026-08-03,2026-11-25,2.0,2.0,2.0,2.0,2.0,2.0,1.0
+Index,Nifty Alpha Quality Low-Volatility 30,Nifty Alpha Quality Low-Volatility 30,Thematic,NSE,,M,Reacting,Supply,RBD,B,10.0,23114.45,23518.0,23206.75,-0.4,2026-08-01,2026-11-25,2.0,2.0,2.0,2.0,0.0,2.0,0.0
+Index,Nifty Alpha Quality Value Low-Volatility 30,Nifty Alpha Quality Value Low-Volatility 30,Thematic,NSE,,D,Approaching,Supply,DBD,A+,14.0,20576.25,20680.45,20227.15,1.7,2026-08-12,2026-11-25,2.0,1.0,2.0,2.0,2.0,3.0,2.0
+Index,Nifty Alpha Quality Value Low-Volatility 30,Nifty Alpha Quality Value Low-Volatility 30,Thematic,NSE,,W,Approaching,Supply,RBD,A,12.0,20652.35,20836.5,20227.15,2.06,2026-08-03,2026-11-25,2.0,1.0,2.0,2.0,2.0,2.0,1.0
+Index,Nifty Alpha Quality Value Low-Volatility 30,Nifty Alpha Quality Value Low-Volatility 30,Thematic,NSE,,W,Reacting,Supply,DBD,A,11.0,20192.4,20305.65,20227.15,-0.17,2026-08-24,2026-11-25,2.0,1.0,2.0,2.0,2.0,2.0,0.0
+Index,Nifty Conglomerate 50,Nifty Conglomerate 50,Thematic,NSE,,D,Approaching,Supply,DBD,A+,14.0,15396.4,15437.85,15096.8,1.95,2026-08-28,2026-11-25,2.0,1.0,2.0,2.0,2.0,3.0,2.0
+Index,Nifty Core Housing,Nifty Core Housing,Thematic,NSE,,M,Approaching,Supply,RBD,B,10.0,15834.05,16233.55,15687.1,0.93,2026-08-01,2026-11-25,2.0,2.0,2.0,2.0,0.0,2.0,0.0
+Index,Nifty Dividend Opportunities 50,Nifty Dividend Opportunities 50,Thematic,NSE,,M,Reacting,Supply,RBD,B,9.0,5862.35,6076.85,5936.6,-1.27,2026-08-01,2026-11-25,2.0,2.0,2.0,0.0,0.0,3.0,0.0
+Index,Nifty EV & New Age Automotive,Nifty EV & New Age Automotive,Thematic,NSE,,D,Approaching,Demand,DBR,A,11.0,3156.4,3116.95,3213.05,1.79,2026-11-17,2026-11-25,2.0,1.0,2.0,0.0,2.0,3.0,1.0
+Index,Nifty EV & New Age Automotive,Nifty EV & New Age Automotive,Thematic,NSE,,M,Approaching,Supply,RBD,B,8.0,3282.75,3422.5,3213.05,2.12,2026-08-01,2026-11-25,2.0,2.0,2.0,0.0,0.0,2.0,0.0
+Index,Nifty India Consumption,Nifty India Consumption,Thematic,NSE,,D,Approaching,Supply,RBD,A+,14.0,12550.1,12634.8,12490.6,0.47,2025-10-28,2026-11-25,2.0,1.0,2.0,2.0,2.0,3.0,2.0
+Index,Nifty India Consumption,Nifty India Consumption,Thematic,NSE,,D,Reacting,Supply,DBD,A,11.0,12452.65,12517.35,12490.6,-0.3,2025-11-28,2026-11-25,0.0,1.0,1.0,2.0,2.0,3.0,2.0
+Index,Nifty India Consumption,Nifty India Consumption,Thematic,NSE,,M,Reacting,Supply,RBD,A,11.0,12289.45,12716.2,12490.6,-1.64,2025-10-01,2026-11-25,2.0,2.0,2.0,2.0,0.0,3.0,0.0
+Index,Nifty India FPI 150,Nifty India FPI 150,Thematic,NSE,,M,Reacting,Supply,RBD,B,8.0,1620.65,1641.4,1622.0,-0.08,2025-12-01,2026-11-25,0.0,2.0,2.0,2.0,0.0,2.0,0.0
+Index,Nifty India New Age Consumption,Nifty India New Age Consumption,Thematic,NSE,,D,Reacting,Supply,RBD,A,12.0,12292.9,12418.65,12343.75,-0.41,2025-10-28,2026-11-25,0.0,2.0,1.0,2.0,2.0,3.0,2.0
+Index,Nifty India Tourism,Nifty India Tourism,Thematic,NSE,,D,Approaching,Supply,DBD,A,12.0,8723.95,8753.6,8511.0,2.44,2025-12-05,2026-11-25,2.0,1.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty India Tourism,Nifty India Tourism,Thematic,NSE,,D,Approaching,Supply,RBD,A,12.0,8621.9,8691.4,8511.0,1.29,2026-01-01,2026-11-25,2.0,1.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty Infrastructure,Nifty Infrastructure,Thematic,NSE,,M,Reacting,Supply,RBD,C,6.0,8920.65,9743.8,9598.35,-7.6,2025-11-01,2026-11-25,0.0,2.0,1.0,0.0,0.0,3.0,0.0
+Index,Nifty Low Volatility 50,Nifty Low Volatility 50,Thematic,NSE,,D,Approaching,Demand,RBR,A,11.0,24758.95,24525.85,25401.55,2.6,2026-11-17,2026-11-25,2.0,1.0,2.0,0.0,2.0,3.0,1.0
+Index,Nifty Low Volatility 50,Nifty Low Volatility 50,Thematic,NSE,,D,Approaching,Supply,RBD,A+,13.0,25991.1,26063.6,25401.55,2.27,2026-01-07,2026-11-25,2.0,2.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty Low Volatility 50,Nifty Low Volatility 50,Thematic,NSE,,D,Reacting,Supply,RBD,B,10.5,25353.65,25601.7,25401.55,-0.19,2026-02-24,2026-11-25,0.0,2.0,1.0,2.0,2.0,1.5,2.0
+Index,Nifty Low Volatility 50,Nifty Low Volatility 50,Thematic,NSE,,M,Reacting,Supply,RBD,C,5.0,24589.4,25912.8,25401.55,-3.3,2025-10-01,2026-11-25,0.0,2.0,1.0,0.0,0.0,2.0,0.0
+Index,Nifty MidSmall India Consumption,Nifty MidSmall India Consumption,Thematic,NSE,,D,Approaching,Supply,DBD,A,12.0,19357.6,19415.55,18864.75,2.55,2025-12-02,2026-11-25,2.0,1.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty MidSmall India Consumption,Nifty MidSmall India Consumption,Thematic,NSE,,W,Approaching,Supply,DBD,A+,14.0,19416.8,19604.8,18864.75,2.84,2025-11-24,2026-11-25,2.0,1.0,2.0,2.0,2.0,3.0,2.0
+Index,Nifty MidSmall India Consumption,Nifty MidSmall India Consumption,Thematic,NSE,,M,Approaching,Supply,RBD,A,11.0,19416.8,20135.15,18864.75,2.84,2025-10-01,2026-11-25,2.0,2.0,2.0,2.0,0.0,2.0,1.0
+Index,Nifty MidSmall India Consumption,Nifty MidSmall India Consumption,Thematic,NSE,,M,Reacting,Supply,RBD,A,11.0,18755.95,19247.45,18864.75,-0.58,2026-08-01,2026-11-25,2.0,2.0,2.0,2.0,0.0,2.0,1.0
+Index,Nifty MidSmall India Consumption,Nifty MidSmall India Consumption,Thematic,NSE,,Q,Reacting,Supply,DBD,C,5.0,18847.45,20135.15,18864.75,-0.09,2025-10-01,2026-11-25,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Index,Nifty MidSmallcap400 Momentum Quality 100,Nifty MidSmallcap400 Momentum Quality 100,Thematic,NSE,,D,Approaching,Demand,RBR,A,11.0,49747.6,49331.3,51170.6,2.86,2026-11-03,2026-11-25,2.0,1.0,2.0,2.0,2.0,2.0,0.0
+Index,Nifty Midcap150 Momentum 50,Nifty Midcap150 Momentum 50,Thematic,NSE,,D,Approaching,Demand,RBR,A,12.0,60569.5,60003.5,62091.4,2.51,2026-11-03,2026-11-25,2.0,1.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty Non-Cyclical Consumer,Nifty Non-Cyclical Consumer,Thematic,NSE,,D,Approaching,Supply,DBD,A,12.0,16295.1,16367.4,15942.1,2.17,2025-12-02,2026-11-25,2.0,1.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty Non-Cyclical Consumer,Nifty Non-Cyclical Consumer,Thematic,NSE,,D,Approaching,Supply,DBD,A,12.0,16128.5,16179.1,15942.1,1.16,2025-12-04,2026-11-25,2.0,1.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty Quality Low-Volatility 30,Nifty Quality Low-Volatility 30,Thematic,NSE,,D,Approaching,Supply,RBD,A+,15.0,17837.05,17900.1,17446.5,2.19,2026-01-07,2026-11-25,2.0,2.0,2.0,2.0,2.0,3.0,2.0
+Index,Nifty Quality Low-Volatility 30,Nifty Quality Low-Volatility 30,Thematic,NSE,,D,Reacting,Supply,DBD,A,12.0,17361.0,17532.5,17446.5,-0.49,2026-01-16,2026-11-25,0.0,1.0,2.0,2.0,2.0,3.0,2.0
+Index,Nifty Quality Low-Volatility 30,Nifty Quality Low-Volatility 30,Thematic,NSE,,M,Approaching,Supply,RBD,B,10.0,17655.85,17900.1,17446.5,1.19,2025-12-01,2026-11-25,2.0,2.0,2.0,2.0,0.0,2.0,0.0
+Index,Nifty Quality Low-Volatility 30,Nifty Quality Low-Volatility 30,Thematic,NSE,,M,Reacting,Supply,DBD,C,5.0,16784.4,17464.3,17446.5,-3.94,2026-02-01,2026-11-25,0.0,1.0,2.0,0.0,0.0,2.0,0.0
+Index,Nifty Rural,Nifty Rural,Thematic,NSE,,M,Reacting,Supply,RBD,C,5.0,15153.05,16396.4,15783.6,-4.16,2025-11-01,2026-11-25,0.0,2.0,1.0,0.0,0.0,2.0,0.0
+Index,Nifty SME EMERGE,Nifty SME EMERGE,Thematic,NSE,,D,Approaching,Demand,RBR,A,12.0,13747.6,13697.0,14013.5,1.93,2026-06-15,2026-11-25,2.0,1.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty Services Sector,Nifty Services Sector,Thematic,NSE,,M,Reacting,Supply,DBD,B,9.5,32325.6,34549.75,33236.7,-2.82,2026-01-01,2026-11-25,2.0,2.0,2.0,0.0,2.0,1.5,0.0
+Index,Nifty Shariah 25,Nifty Shariah 25,Thematic,NSE,,M,Reacting,Supply,RBD,B,8.0,8031.5,8254.75,8174.55,-1.78,2026-08-01,2026-11-25,2.0,2.0,2.0,0.0,0.0,2.0,0.0
+Index,Nifty Top 10 Equal Weight,Nifty Top 10 Equal Weight,Thematic,NSE,,D,Approaching,Supply,DBD,A+,14.0,9656.95,9695.2,9541.0,1.2,2026-02-10,2026-11-25,2.0,1.0,2.0,2.0,2.0,3.0,2.0
+Index,Nifty Top 10 Equal Weight,Nifty Top 10 Equal Weight,Thematic,NSE,,M,Reacting,Supply,DBD,B,10.0,9257.4,10003.85,9541.0,-3.06,2026-02-01,2026-11-25,2.0,2.0,2.0,0.0,2.0,2.0,0.0
+Index,Nifty Top 15 Equal Weight,Nifty Top 15 Equal Weight,Thematic,NSE,,D,Reacting,Supply,RBD,B,8.0,10706.6,11021.25,10738.3,-0.3,2026-02-03,2026-11-25,0.0,2.0,2.0,0.0,2.0,0.0,2.0
+Index,Nifty Top 15 Equal Weight,Nifty Top 15 Equal Weight,Thematic,NSE,,M,Approaching,Supply,RBD,B,10.0,11051.3,11110.6,10738.3,2.83,2025-12-01,2026-11-25,2.0,2.0,2.0,2.0,0.0,2.0,0.0
+Index,Nifty Top 15 Equal Weight,Nifty Top 15 Equal Weight,Thematic,NSE,,M,Reacting,Supply,DBD,C,7.0,10399.65,11021.25,10738.3,-3.26,2026-02-01,2026-11-25,2.0,1.0,2.0,0.0,0.0,2.0,0.0
+Index,Nifty Top 20 Equal Weight,Nifty Top 20 Equal Weight,Thematic,NSE,,M,Reacting,Supply,DBD,C,7.0,9188.6,9768.2,9568.65,-4.14,2026-02-01,2026-11-25,2.0,1.0,2.0,0.0,0.0,2.0,0.0
+Index,Nifty100 Equal Weight,Nifty100 Equal Weight,Thematic,NSE,,M,Reacting,Supply,RBD,A,11.0,34994.75,35705.95,35217.45,-0.64,2026-08-01,2026-11-25,2.0,2.0,2.0,2.0,0.0,3.0,0.0
+Index,Nifty100 Low Volatility 30,Nifty100 Low Volatility 30,Thematic,NSE,,D,Approaching,Demand,RBR,A,11.0,20354.0,20190.1,20868.55,2.53,2026-11-17,2026-11-25,2.0,1.0,2.0,0.0,2.0,3.0,1.0
+Index,Nifty100 Low Volatility 30,Nifty100 Low Volatility 30,Thematic,NSE,,D,Approaching,Supply,RBD,A+,13.0,21346.35,21441.3,20868.55,2.24,2026-01-07,2026-11-25,2.0,2.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty100 Low Volatility 30,Nifty100 Low Volatility 30,Thematic,NSE,,M,Reacting,Supply,DBD,C,6.0,20184.1,21123.25,20868.55,-3.39,2026-02-01,2026-11-25,0.0,1.0,2.0,0.0,0.0,3.0,0.0
+Index,Nifty200 Momentum 30,Nifty200 Momentum 30,Thematic,NSE,,M,Reacting,Supply,DBD,C,6.0,29357.75,31955.2,29575.05,-0.74,2026-01-01,2026-11-25,0.0,1.0,2.0,0.0,0.0,3.0,0.0
+Index,Nifty200 Value 30,Nifty200 Value 30,Thematic,NSE,,D,Approaching,Supply,DBD,A+,13.0,15154.15,15253.05,14787.3,2.42,2026-08-12,2026-11-25,2.0,2.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty50 Shariah,Nifty50 Shariah,Thematic,NSE,,M,Reacting,Supply,RBD,B,10.0,4293.0,4460.8,4434.75,-3.3,2026-08-01,2026-11-25,2.0,2.0,2.0,0.0,2.0,2.0,0.0
+Index,Nifty50 Shariah,Nifty50 Shariah,Thematic,NSE,,Q,Approaching,Supply,DBD,C,6.0,4507.25,4982.45,4434.75,1.61,2025-04-01,2026-11-25,2.0,1.0,1.0,0.0,0.0,2.0,0.0
+Index,Nifty50 Value 20,Nifty50 Value 20,Thematic,NSE,,D,Approaching,Demand,RBR,A+,13.0,12408.8,12323.65,12655.2,1.99,2026-11-18,2026-11-25,2.0,1.0,2.0,2.0,2.0,3.0,1.0
+Index,Nifty50 Value 20,Nifty50 Value 20,Thematic,NSE,,D,Approaching,Supply,DBD,A,12.0,12970.65,13068.3,12655.2,2.43,2026-02-25,2026-11-25,2.0,1.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty500 Low Volatility 50,Nifty500 Low Volatility 50,Thematic,NSE,,D,Approaching,Demand,DBR,A,11.0,22450.35,22281.1,23025.75,2.56,2026-11-16,2026-11-25,2.0,2.0,1.0,0.0,2.0,3.0,1.0
+Index,Nifty500 Low Volatility 50,Nifty500 Low Volatility 50,Thematic,NSE,,D,Approaching,Supply,RBD,A+,13.0,23474.05,23544.25,23025.75,1.91,2026-01-07,2026-11-25,2.0,2.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty500 Low Volatility 50,Nifty500 Low Volatility 50,Thematic,NSE,,D,Approaching,Supply,RBD,A+,13.0,23179.05,23254.1,23025.75,0.66,2026-02-26,2026-11-25,2.0,2.0,2.0,2.0,2.0,3.0,0.0
+Index,Nifty500 Multifactor MQVLv 50,Nifty500 Multifactor MQVLv 50,Thematic,NSE,,D,Approaching,Supply,DBD,A,12.0,31011.45,31075.6,30325.2,2.21,2026-08-17,2026-11-25,2.0,1.0,2.0,2.0,2.0,3.0,0.0
